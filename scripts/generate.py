@@ -39,7 +39,7 @@ def recent_titles():
 def write_copy():
     topic = random.choice(TOPICS)
     r = requests.post(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent",
         params={"key": GEMINI_KEY},
         json={"contents": [{"parts": [{"text": PROMPT.format(
             topic=topic, n=SLIDES, m=SLIDES - 1, recent=recent_titles())}]}],
