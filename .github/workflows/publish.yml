@@ -18,4 +18,6 @@ jobs:
           RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/main
       - run: |
           git config user.name bot && git config user.email bot@users.noreply.github.com
-          git add queue && git commit -m "posted ${{ inputs.date }}" && git push
+          git add queue && git commit -m "posted ${{ inputs.date }}"
+          git pull --rebase origin main
+          git push
