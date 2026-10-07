@@ -16,7 +16,9 @@ jobs:
       - name: Commit images (so Slack can display them)
         run: |
           git config user.name bot && git config user.email bot@users.noreply.github.com
-          git add queue && git commit -m "queue $(date -u +%F)" && git push
+          git add queue && git commit -m "queue $(date -u +%F)"
+          git pull --rebase origin main
+          git push
       - run: python scripts/notify.py
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
