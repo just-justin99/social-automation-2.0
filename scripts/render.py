@@ -62,20 +62,41 @@ def draw_title(img, text):
     grad = np.broadcast_to(grad, (H, W, 3))
     layer = Image.fromarray(np.ascontiguousarray(grad), "RGB")
     img.paste(layer, (0, 0), mask)
+    return top
+
+
+def draw_kicker(img, text, y):
+    """Small letter-spaced label above the title (e.g. 'WEBSITE TRUST' or '01')."""
+    d = ImageDraw.Draw(img)
+    f = font(28, 500)
+    sp = 5
+    widths = [d.textlength(c, font=f) for c in text]
+    x = (W - (sum(widths) + sp * (len(text) - 1))) / 2
+    for c, w in zip(text, widths):
+        d.text((x, max(60, y)), c, font=f, fill=(140, 135, 185))
+        x += w + sp
 
 
 def draw_body(img, text):
     d = ImageDraw.Draw(img)
-    f = font(34, 300)
-    lines = wrap(d, text, f, MAX_W)
+    size = 34
+    while True:
+        f = font(size, 300)
+        lines = wrap(d, text, f, MAX_W)
+        if len(lines) <= 7 or size <= 28:
+            break
+        size -= 2
+    lh = int(size * 1.35)
     for i, line in enumerate(lines):
         w = d.textlength(line, font=f)
-        d.text(((W - w) / 2, BODY_TOP + i * 46), line, font=f, fill=(228, 228, 234))
+        d.text(((W - w) / 2, BODY_TOP + i * lh), line, font=f, fill=(228, 228, 234))
 
 
-def render_slide(title, body, out_path):
+def render_slide(title, body, out_path, kicker=None):
     img = Image.open(TEMPLATE).convert("RGB")
-    draw_title(img, title)
+    top = draw_title(img, title)
+    if kicker:
+        draw_kicker(img, kicker, top - 64)
     if body:
         draw_body(img, body)
     img.save(out_path, "PNG", optimize=True)
@@ -88,7 +109,7 @@ def render_carousel(slides, out_dir):
     paths = []
     for i, s in enumerate(slides, 1):
         p = out_dir / f"slide_{i}.png"
-        render_slide(s["title"], s.get("body", ""), p)
+        render_slide(s["title"], s.get("body", ""), p, s.get("kicker"))
         paths.append(p)
     return paths
 
