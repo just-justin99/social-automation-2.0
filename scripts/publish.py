@@ -9,7 +9,7 @@ meta = json.loads((ROOT / "queue" / date / "meta.json").read_text())
 if (ROOT / "queue" / date / "POSTED").exists():
     sys.exit("Already posted - refusing to double post.")
 
-G = "https://graph.facebook.com/v21.0"
+G = "https://graph.facebook.com/v26.0"
 uid, tok = os.environ["IG_USER_ID"], os.environ["IG_ACCESS_TOKEN"]
 raw = os.environ["RAW_BASE"]
 
