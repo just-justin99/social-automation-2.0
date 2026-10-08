@@ -1,29 +1,29 @@
 {
   "date": "2026-10-08",
-  "type": "selling",
-  "format": "audit_offer",
-  "subject": "Accessibility",
-  "topic": "Accessibility",
-  "hook_style": "myth_bust",
-  "label": "WEBSITE ACCESS",
-  "caption": "Making your website easier to use isn't about aesthetics\u2014it's about removing the friction that stops people from buying. When your site is easy to read and navigate, search engines also rank it higher.\n\nIf you want to know if your site has these hidden barriers, DM me the word AUDIT. I\u2019ll send you a quick, manual video review of your homepage with three practical fixes.\n\n#webdesign #usability #conversionrate #smallbusiness #webdesigner",
+  "type": "education",
+  "format": "before_after",
+  "subject": "SEO",
+  "topic": "SEO",
+  "hook_style": "problem_callout",
+  "label": "LOCAL SEO BASICS",
+  "caption": "Your website's main job is helping local customers find you. If you make these three quick fixes\u2014updating your homepage title, listing specific cities, and typing your address in plain text\u2014you will instantly make your business more visible on Google.\n\n#localseo #smallbusinessmarketing #webdesigntips #localseotips #seo",
   "slides": [
     {
-      "title": "Your website is quietly blocking paying customers.",
-      "body": "If your text is hard to read or buttons are tough to tap, you are turning away buyers. People don't struggle through bad design; they just buy from a competitor with an easier site.",
-      "kicker": "WEBSITE ACCESS"
+      "title": "Is your homepage tab just named 'Home'?",
+      "body": "Look at your browser tab right now. If it just says 'Home' or your business name, local customers can't find you on Google. You are missing out on searches happening in your town today.",
+      "kicker": "LOCAL SEO BASICS"
     },
     {
-      "title": "Light gray text kills mobile sales.",
-      "body": "Low-contrast gray text is nearly invisible on mobile screens in daylight. If customers have to squint to read your pricing or offer, they will close the tab and find an easier option."
+      "title": "Change your SEO title in 60 seconds.",
+      "body": "Swap 'Home \u2014 Smith & Sons' for 'Plumber in Austin, TX | Smith & Sons'. This instantly tells Google exactly what you do and where you do it, so you show up for local searches."
     },
     {
-      "title": "Small, crowded buttons cause abandoned carts.",
-      "body": "If your links and buttons are too close together, one-handed phone users will misclick. When tapping 'Checkout' accidentally opens a different page, frustrated users simply give up."
+      "title": "Stop writing 'Serving the tri-state area.'",
+      "body": "Google's algorithm doesn't know what 'tri-state' means. Replace vague regions with actual city names like 'Portland, Beaverton, and Gresham.' If you don't name the cities, you won't rank in them."
     },
     {
-      "title": "Get a free, manual homepage check.",
-      "body": "I will personally test your homepage for these contrast and mobile issues. No automated templates, just three practical fixes to stop losing sales. DM me 'AUDIT' to get started."
+      "title": "Is your address trapped inside an image?",
+      "body": "If your footer address is part of a graphic or map image, Google cannot read it. Type it out in plain text so search engines can verify your physical location and show you to nearby customers."
     }
   ]
 }
