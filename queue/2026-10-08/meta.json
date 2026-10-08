@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-08",
+  "type": "education",
+  "format": "list",
+  "subject": "Colour psychology",
+  "topic": "Colour psychology",
+  "hook_style": "hidden_cost",
+  "label": "WEBSITE COLOUR STRATEGY",
+  "caption": "Try looking at your website in greyscale. If your main call-to-action button doesn't instantly stand out, your contrast is too low. Good colour strategy prioritises function over fashion.\n\n#webdesign #conversionrate #uidesign #smallbusinessowner #branding",
+  "slides": [
+    {
+      "title": "Your brand colors are hiding your checkout button.",
+      "body": "When your 'Buy' button matches your logo, it disappears. Visitors scan pages in seconds. If your call-to-action doesn't instantly jump out, people leave without buying. Here is how to fix your color hierarchy.",
+      "kicker": "WEBSITE COLOUR STRATEGY"
+    },
+    {
+      "title": "Stop using your primary brand color for buttons.",
+      "body": "If your brand color is blue, and your buttons, headers, and icons are all blue, nothing stands out. Your action buttons need an 'isolation color' used absolutely nowhere else on the page.",
+      "kicker": "01"
+    },
+    {
+      "title": "Light gray text is killing your inquiries.",
+      "body": "Putting light gray text on a white background, or white text on a yellow button, makes your site unreadable. If visitors have to squint to read your pricing or details, they will close the tab.",
+      "kicker": "02"
+    },
+    {
+      "title": "Apply the 60-30-10 rule to your pages.",
+      "body": "60% dominant color (background), 30% secondary (text and structure), 10% accent (only for buttons and critical alerts). If your accent color covers more than 10% of the screen, it loses its power.",
+      "kicker": "03"
+    },
+    {
+      "title": "The 3-second squint test for your homepage.",
+      "body": "Squint at your website. Do your eyes naturally go straight to your main button? If not, change that button's color today. Save this guide to run this quick check on your landing pages."
+    }
+  ]
+}
