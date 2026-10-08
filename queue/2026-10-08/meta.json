@@ -1,29 +1,36 @@
 {
   "date": "2026-10-08",
   "type": "education",
-  "format": "before_after",
-  "subject": "SEO",
-  "topic": "SEO",
-  "hook_style": "problem_callout",
-  "label": "LOCAL SEO BASICS",
-  "caption": "Your website's main job is helping local customers find you. If you make these three quick fixes\u2014updating your homepage title, listing specific cities, and typing your address in plain text\u2014you will instantly make your business more visible on Google.\n\n#localseo #smallbusinessmarketing #webdesigntips #localseotips #seo",
+  "format": "list",
+  "subject": "Typography",
+  "topic": "Typography",
+  "hook_style": "hidden_cost",
+  "label": "WEBSITE READABILITY",
+  "caption": "If your website is hard to read, it's hard to buy from. Most business owners use default template settings without realizing they are driving mobile users away. Try the daylight test today and fix your contrast, width, and fonts to keep prospects on your page. #webdesign #typography #smallbusinesswebsite #usability #conversionrate",
   "slides": [
     {
-      "title": "Is your homepage tab just named 'Home'?",
-      "body": "Look at your browser tab right now. If it just says 'Home' or your business name, local customers can't find you on Google. You are missing out on searches happening in your town today.",
-      "kicker": "LOCAL SEO BASICS"
+      "title": "Poor website readability is costing you sales.",
+      "body": "If prospects struggle to read your pricing or services, they click away. Here are four common typography mistakes that are quietly killing your website conversions right now.",
+      "kicker": "WEBSITE READABILITY"
     },
     {
-      "title": "Change your SEO title in 60 seconds.",
-      "body": "Swap 'Home \u2014 Smith & Sons' for 'Plumber in Austin, TX | Smith & Sons'. This instantly tells Google exactly what you do and where you do it, so you show up for local searches."
+      "title": "Stop using light gray text on white.",
+      "body": "Many modern templates default to light gray body text. Outside in daylight or on older mobile screens, it becomes completely invisible. Switch your body text to dark gray or black.",
+      "kicker": "01"
     },
     {
-      "title": "Stop writing 'Serving the tri-state area.'",
-      "body": "Google's algorithm doesn't know what 'tri-state' means. Replace vague regions with actual city names like 'Portland, Beaverton, and Gresham.' If you don't name the cities, you won't rank in them."
+      "title": "Your paragraphs are too wide to read.",
+      "body": "If your text stretches across the entire desktop screen, users will skip it. Limit your text blocks to about 60\u201380 characters per line to make reading your offers effortless.",
+      "kicker": "02"
     },
     {
-      "title": "Is your address trapped inside an image?",
-      "body": "If your footer address is part of a graphic or map image, Google cannot read it. Type it out in plain text so search engines can verify your physical location and show you to nearby customers."
+      "title": "Limit your website to two fonts.",
+      "body": "Using three or more fonts slows down your page load speed and looks disorganized. Use one clean font for headings and one for body text to instantly look more professional.",
+      "kicker": "03"
+    },
+    {
+      "title": "Test your website readability in 10 seconds.",
+      "body": "Open your homepage on your phone, step outside into daylight, and try to read it. If you have to squint, your customers are already leaving. Save this post to audit your fonts."
     }
   ]
 }
