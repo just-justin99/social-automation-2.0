@@ -1,5 +1,5 @@
 """Daily job: pick a plan (80/15/5 mix, learned weights) -> write -> self-critique -> render -> queue."""
-import os, json, datetime, random
+import os, json, datetime, random, time
 from pathlib import Path
 import requests
 from render import render_carousel, ROOT
@@ -210,10 +210,22 @@ def gemini_json(prompt, validate, temperature=0.9, start_models=None):
             if model in tried:
                 continue
             tried.append(model)
-            r = requests.post(f"{API}/models/{model}:generateContent", params={"key": GEMINI_KEY},
-                              json={"contents": [{"parts": [{"text": prompt}]}],
-                                    "generationConfig": {"responseMimeType": "application/json",
-                                                         "temperature": temperature}}, timeout=120)
+            for attempt, wait in enumerate((0, 8, 25, 60)):   # retry temporary overloads (503/429/5xx)
+                time.sleep(wait)
+                try:
+                    r = requests.post(f"{API}/models/{model}:generateContent", params={"key": GEMINI_KEY},
+                                      json={"contents": [{"parts": [{"text": prompt}]}],
+                                            "generationConfig": {"responseMimeType": "application/json",
+                                                                 "temperature": temperature}}, timeout=120)
+                except requests.RequestException as e:
+                    print(f"{model}: network error, retrying ({e})")
+                    continue
+                if r.status_code not in (429, 500, 502, 503, 504):
+                    break
+                print(f"{model}: HTTP {r.status_code}, retry {attempt + 1}")
+            else:
+                last = f"{model}: still unavailable after retries"
+                continue
             if not r.ok:
                 last = f"{model}: HTTP {r.status_code} {r.text[:200]}"
                 print("Skipping", last)
