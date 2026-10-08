@@ -9,7 +9,7 @@ from pathlib import Path
 import requests
 
 ROOT = Path(__file__).resolve().parent.parent
-G = "https://graph.facebook.com/v21.0"
+G = "https://graph.facebook.com/v26.0"
 MIN_AGE_DAYS = 3          # let a post finish collecting reach before judging it
 MIN_POSTS_TO_LEARN = 10   # below this, stay on defaults: tiny samples are mostly noise
 RETIRE_BELOW, BOOST_ABOVE = 0.6, 1.3
