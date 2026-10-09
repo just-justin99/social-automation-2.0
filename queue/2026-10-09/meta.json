@@ -1,34 +1,35 @@
 {
   "date": "2026-10-09",
-  "type": "education",
-  "format": "deep_dive",
-  "subject": "Website mistakes",
-  "topic": "Website mistakes",
-  "hook_style": "problem_callout",
-  "label": "CONTACT FORM DESIGN",
-  "caption_ig": "Stop treating your contact form like a job application. If you make people jump through hoops just to ask a question, they will hire your competitor instead. Delete the budget, timeline, and phone number fields today. Keep it simple: name, email, message. That's it.\n\n#webdesign #conversionrate #smallbusinesstips #leadgeneration #userexperience",
-  "caption_fb": "It's tempting to ask for every detail upfront on your contact form to filter out 'bad' leads. But this actually backfires. High-value clients are busy, and they value their privacy. When you force them to share their phone number or budget before they even know you, they just leave. Try reducing your form to name, email, and message. You can easily ask the qualifying questions during your first follow-up. Have you checked your own contact form lately?",
+  "type": "authority",
+  "format": "process",
+  "subject": "Digital marketing",
+  "topic": "Digital marketing",
+  "hook_style": "question",
+  "label": "MARKETING ALIGNMENT",
+  "caption_ig": "If your social media link sends people to your homepage, you are wasting your own time.\n\nPeople don't browse. They click for a specific reason. If they have to search your site to find what you just posted about, they will close the tab.\n\nLink directly to the product, the blog post, or the booking page. No exceptions.\n\n#WebDesign #ConversionRate #SmallBusinessTips #DigitalMarketing #UserExperience",
+  "caption_fb": "We spend hours polishing our social media posts, writing newsletters, and setting up ads. But we rarely test what happens after someone actually clicks.\n\nIf you run an ad for a specific service, but your website's main headline uses confusing corporate jargon that doesn't match the ad, people assume they are in the wrong place and leave.\n\nTake five minutes today to click through your own active marketing links on your phone. Make sure your website actually delivers on the exact promise your post or email made.",
+  "caption_li": "Many small businesses struggle with high bounce rates on their website, assuming it is a design or copy issue. Often, it is simply a broken user journey.\n\nWhen your external marketing channels (ads, email, social) do not align perfectly with your landing pages, you lose prospect trust instantly. If your Google ad promises one specific solution, but your landing page forces the user to navigate a complex menu to find it, they will bounce.\n\nYour website's job is to finish the conversation your marketing started. Ensure every link drops visitors exactly where they expect to land, with the exact information promised.",
   "slides": [
     {
-      "title": "Your 7-field contact form is costing you sales.",
-      "body": "When busy prospects see a wall of text boxes, they don't fill them out. They close the tab and click the next business on Google.",
-      "kicker": "CONTACT FORM DESIGN"
+      "title": "Where your social media traffic actually goes to die",
+      "body": "You spend hours creating social posts. But if your link sends people to a generic homepage instead of the specific offer you promised, they close the tab immediately. You paid for a useless click.",
+      "kicker": "MARKETING ALIGNMENT"
     },
     {
-      "title": "Asking for a budget upfront scares off buyers.",
-      "body": "High-value clients value privacy. Forcing them to share their budget or phone number before they even trust you makes them abandon the form entirely."
+      "title": "Stop sending promotion traffic to your homepage",
+      "body": "If you promote a specific product on Instagram, but link to your homepage, you force users to search for it. Most won't. They will leave. Always link directly to the exact product page."
     },
     {
-      "title": "Required phone number fields destroy your conversions.",
-      "body": "Most people hate getting unsolicited phone calls. Making the phone field mandatory forces prospects to choose between giving up their privacy or leaving your site."
+      "title": "Your Google ads are paying for immediate bounces",
+      "body": "If your ad promises 'Affordable Bookkeeping' but your website headline says 'Synergistic Financial Solutions', users think they clicked the wrong link. They bounce, and Google still charges you for the click."
     },
     {
-      "title": "Delete every field except these three.",
-      "body": "Only ask for name, email, and their message. You can easily ask about budget, timelines, and phone numbers during your first email reply or discovery call."
+      "title": "Your email newsletter is breaking its promises",
+      "body": "You send an email offering a 'free PDF guide'. But when readers click, they land on a page with three different pop-ups and no clear download button. You just traded trust for frustration."
     },
     {
-      "title": "Treat your form like a handshake, not contracts.",
-      "body": "Your contact form's only job is to open a line of communication. Once you have their email, you can qualify them. Stop making them do homework first."
+      "title": "How to audit your own marketing links today",
+      "body": "Click your own bio links, ad links, and email buttons on your phone. If you have to click more than once to find the promised offer, your website is losing you customers. Fix those paths first."
     }
   ]
 }
