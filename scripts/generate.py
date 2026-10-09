@@ -98,24 +98,27 @@ BETTER: title "Your mobile experience can lose the sale." body "If your buttons 
 WEAK: "Consistency is important for your brand."
 BETTER: title "Your website isn't your brand." body "Your brand is the expectation people have before they buy from you. Your website either reinforces that expectation, or breaks it."
 {learned}
-Also write: "label" (the series label for the cover, max 3 words, e.g. "Website trust"), and TWO captions for the
+Also write: "label" (the series label for the cover, max 3 words, e.g. "Website trust"), and THREE captions for the
 same post, written separately so each reads naturally on its platform (not just copy-pasted):
 - "caption_ig": Instagram caption, max 60 words, punchy and direct, adds one extra useful thought, ends with one line of
   exactly 5 hashtags, no selling unless post type is selling.
 - "caption_fb": Facebook caption, max 90 words, a slightly more conversational and explanatory tone, written in full
   sentences as if talking to the reader, no hashtags (Facebook audiences respond better to plain text), same core message
   and no selling unless post type is selling.
+- "caption_li": LinkedIn caption, max 110 words, professional first-person voice of a working designer, opens with a
+  one-line hook, short paragraphs separated by blank lines, ends with a takeaway or a question for the reader, no
+  hashtags, no emojis, same core message and no selling unless post type is selling.
 Avoid repeating or paraphrasing these recent titles: {recent}
 
-Return ONLY JSON: {{"label":"","slides":[{{"title":"","body":""}}],"caption_ig":"","caption_fb":""}}"""
+Return ONLY JSON: {{"label":"","slides":[{{"title":"","body":""}}],"caption_ig":"","caption_fb":"","caption_li":""}}"""
 
 CRITIC = """You are a ruthless editor of Instagram/Facebook carousels for small-business owners (not designers).
 For EACH slide ask: would the owner of a small business think "I didn't know that", "that's actually useful" or "my website
 might have this problem"? Rewrite every slide that is generic, obvious, vague, preachy or could sit on any marketing blog,
 making it more specific and consequence-led. Remove or soften anything that sounds like an invented statistic or an
-unprovable claim. Keep it accurate. Keep the SAME JSON schema (label, slides, caption_ig, caption_fb) and EXACTLY {n}
-slides. Make sure caption_ig and caption_fb still genuinely differ in tone as described in their original brief (Instagram
-punchy with hashtags, Facebook conversational, no hashtags). Limits: titles max 9 words, body max 38 words. Keep the voice
+unprovable claim. Keep it accurate. Keep the SAME JSON schema (label, slides, caption_ig, caption_fb, caption_li) and EXACTLY {n}
+slides. Make sure caption_ig, caption_fb and caption_li still genuinely differ in tone as described in their original brief (Instagram
+punchy with hashtags, Facebook conversational with no hashtags, LinkedIn professional with no hashtags). Limits: titles max 9 words, body max 38 words. Keep the voice
 plain and confident.
 
 DRAFT:
@@ -261,6 +264,7 @@ def make_validator(n):
             assert len(s.get("body", "").split()) <= 45, "body too long"
         assert d["caption_ig"].strip()
         assert d["caption_fb"].strip()
+        assert d["caption_li"].strip()
     return v
 
 # ───────────────────────── MAIN ─────────────────────────
@@ -296,7 +300,7 @@ def build():
         for s in slides:
             s["title"] = s["title"].upper()
     return dict(date=TODAY, type=ptype, format=fmt, subject=subject, topic=subject, hook_style=hook,
-                label=label, caption_ig=final["caption_ig"], caption_fb=final["caption_fb"], slides=slides)
+                label=label, caption_ig=final["caption_ig"], caption_fb=final["caption_fb"], caption_li=final["caption_li"], slides=slides)
 
 
 if __name__ == "__main__":
