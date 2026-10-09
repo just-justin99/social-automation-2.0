@@ -24,4 +24,5 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           APPROVE_SECRET: ${{ secrets.APPROVE_SECRET }}
           WORKER_URL: ${{ secrets.WORKER_URL }}
+          LINKEDIN_TOKEN_EXPIRES: ${{ vars.LINKEDIN_TOKEN_EXPIRES }}
           RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/main
