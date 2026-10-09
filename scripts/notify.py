@@ -20,7 +20,9 @@ for i in range(1, len(meta["slides"]) + 1):
 caption_ig = meta.get("caption_ig", meta.get("caption", ""))
 caption_fb = meta.get("caption_fb", meta.get("caption", ""))
 blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": "*Instagram caption*\n" + caption_ig}})
+caption_li = meta.get("caption_li", caption_fb)
 blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": "*Facebook caption*\n" + caption_fb}})
+blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": "*LinkedIn caption*\n" + caption_li}})
 blocks.append({"type": "actions", "elements": [
     {"type": "button", "style": "primary", "text": {"type": "plain_text", "text": "Approve & post"},
      "url": f"{worker}/approve?date={TODAY}&token={sign(TODAY)}"},
