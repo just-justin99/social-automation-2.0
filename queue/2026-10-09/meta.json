@@ -1,35 +1,38 @@
 {
   "date": "2026-10-09",
-  "type": "authority",
-  "format": "process",
-  "subject": "Digital marketing",
-  "topic": "Digital marketing",
-  "hook_style": "question",
-  "label": "MARKETING ALIGNMENT",
-  "caption_ig": "If your social media link sends people to your homepage, you are wasting your own time.\n\nPeople don't browse. They click for a specific reason. If they have to search your site to find what you just posted about, they will close the tab.\n\nLink directly to the product, the blog post, or the booking page. No exceptions.\n\n#WebDesign #ConversionRate #SmallBusinessTips #DigitalMarketing #UserExperience",
-  "caption_fb": "We spend hours polishing our social media posts, writing newsletters, and setting up ads. But we rarely test what happens after someone actually clicks.\n\nIf you run an ad for a specific service, but your website's main headline uses confusing corporate jargon that doesn't match the ad, people assume they are in the wrong place and leave.\n\nTake five minutes today to click through your own active marketing links on your phone. Make sure your website actually delivers on the exact promise your post or email made.",
-  "caption_li": "Many small businesses struggle with high bounce rates on their website, assuming it is a design or copy issue. Often, it is simply a broken user journey.\n\nWhen your external marketing channels (ads, email, social) do not align perfectly with your landing pages, you lose prospect trust instantly. If your Google ad promises one specific solution, but your landing page forces the user to navigate a complex menu to find it, they will bounce.\n\nYour website's job is to finish the conversation your marketing started. Ensure every link drops visitors exactly where they expect to land, with the exact information promised.",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "SEO",
+  "topic": "SEO",
+  "hook_style": "problem_callout",
+  "label": "LOCAL GOOGLE SEARCH",
+  "caption_ig": "Is your website hiding from local customers? Open your site on your phone right now. Check your browser tab and try tapping your phone number. Simple fixes like these drag buried local sites to the top of search result pages.\n\n#localseo #smallbusinessmarketing #seotips #webdesign #localbusiness",
+  "caption_fb": "Most small business owners assume getting found on Google requires expensive monthly SEO retainers. In reality, most local websites fail because of basic setup mistakes\u2014like leaving the homepage title as 'Home' or saving contact information inside a graphic instead of plain text. When search engines scan your site, they need clear text clues about what you do and where you operate. Fixing these simple page title and content structures gives you an immediate advantage over competitors in your town.",
+  "caption_li": "Search engine optimization for local service businesses rarely requires complex technical strategies. It usually comes down to basic site clarity.\n\nWhen Google crawls a site, it prioritizes structured text fields like page titles and headers. Naming your homepage 'Home' or listing four distinct services on a single landing page creates algorithmic ambiguity.\n\nGiving each service a dedicated page and formatting your page titles with a standard [Service] + [Location] syntax removes that friction and dramatically improves local search visibility.",
   "slides": [
     {
-      "title": "Where your social media traffic actually goes to die",
-      "body": "You spend hours creating social posts. But if your link sends people to a generic homepage instead of the specific offer you promised, they close the tab immediately. You paid for a useless click.",
-      "kicker": "MARKETING ALIGNMENT"
+      "title": "Look at the browser tab on your homepage.",
+      "body": "If it says 'Home' or just your company name, Google treats your site like a secret. You are missing the single most heavily weighted local search ranking spot on your entire website.",
+      "kicker": "LOCAL GOOGLE SEARCH"
     },
     {
-      "title": "Stop sending promotion traffic to your homepage",
-      "body": "If you promote a specific product on Instagram, but link to your homepage, you force users to search for it. Most won't. They will leave. Always link directly to the exact product page."
+      "title": "Your city is buried in a footer image.",
+      "body": "Google cannot read text inside images or graphic logos. If your target city only appears inside a logo or image banner, search engines assume you serve nowhere specific and drop your local ranking.",
+      "kicker": "01"
     },
     {
-      "title": "Your Google ads are paying for immediate bounces",
-      "body": "If your ad promises 'Affordable Bookkeeping' but your website headline says 'Synergistic Financial Solutions', users think they clicked the wrong link. They bounce, and Google still charges you for the click."
+      "title": "You list five main services on one page.",
+      "body": "Google ranks individual pages for specific queries, not whole sites. Putting plumbing, water heaters, and drain cleaning on one page guarantees competitors with dedicated service pages outrank you every time.",
+      "kicker": "02"
     },
     {
-      "title": "Your email newsletter is breaking its promises",
-      "body": "You send an email offering a 'free PDF guide'. But when readers click, they land on a page with three different pop-ups and no clear download button. You just traded trust for frustration."
+      "title": "Your phone number is saved as an image.",
+      "body": "If mobile visitors cannot tap your phone number to call immediately, or if search engines cannot read it as editable text, potential local customers bounce and search engines miss crucial contact verification.",
+      "kicker": "03"
     },
     {
-      "title": "How to audit your own marketing links today",
-      "body": "Click your own bio links, ad links, and email buttons on your phone. If you have to click more than once to find the promised offer, your website is losing you customers. Fix those paths first."
+      "title": "Use this exact formula for your title tag.",
+      "body": "Change your homepage title setting to: [Primary Service] in [City, State] | [Business Name]. For example: Commercial Electrician in Denver, CO | Apex Power. This single change gives Google immediate search context."
     }
   ]
 }
