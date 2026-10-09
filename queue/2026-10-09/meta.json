@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-09",
+  "type": "authority",
+  "format": "process",
+  "subject": "Branding",
+  "topic": "Branding",
+  "hook_style": "spot_it",
+  "label": "BRAND IDENTITY TEST",
+  "caption": "If you remove your logo from your website and it looks exactly like your top three competitors, you don't have a brand\u2014you have a template. This means you are competing on price instead of value. To stand out, stop using generic stock photos, ditch the corporate jargon, and stick to a consistent set of fonts. Try the logo test today and see where you stand.\n\n#SmallBusinessTips #WebsiteStrategy #BrandStrategy #WebDesign #CopywritingTips",
+  "slides": [
+    {
+      "title": "Cover your website logo right now.",
+      "body": "If you hide your logo and your site looks exactly like your competitors, you don't have a brand. You have a template. Customers will struggle to remember you when they are comparing quotes.",
+      "kicker": "BRAND IDENTITY TEST"
+    },
+    {
+      "title": "Are you using default Canva templates?",
+      "body": "Using the same popular fonts and pastel palettes as everyone else makes your business look interchangeable. If your design looks generic, buyers assume your service is generic too. Pick two signature fonts and stick to them."
+    },
+    {
+      "title": "Stock photos are costing you inquiries.",
+      "body": "Using the same stock photos of smiling models as your competitors signals that your business is small or hiding something. Replace them with real photos of your team, your workspace, or your actual work."
+    },
+    {
+      "title": "Read your website copy out loud.",
+      "body": "If your text sounds like a formal textbook, you are losing leads. Real people buy from real people. Write exactly how you speak to a client over coffee. Strip out the corporate jargon."
+    },
+    {
+      "title": "The cost of looking like everyone else.",
+      "body": "When you look identical to your competitors, you are forced to compete on price alone. Fix your fonts, use real photos, and write like a human to build trust before they even read your pricing."
+    }
+  ]
+}
