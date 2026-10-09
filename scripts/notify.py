@@ -17,7 +17,10 @@ worker = os.environ["WORKER_URL"]
 blocks = [{"type": "header", "text": {"type": "plain_text", "text": f"Carousel for {TODAY}"}}]
 for i in range(1, len(meta["slides"]) + 1):
     blocks.append({"type": "image", "image_url": f"{raw}/queue/{TODAY}/slide_{i}.png", "alt_text": f"slide {i}"})
-blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": "*Caption*\n" + meta["caption"]}})
+caption_ig = meta.get("caption_ig", meta.get("caption", ""))
+caption_fb = meta.get("caption_fb", meta.get("caption", ""))
+blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": "*Instagram caption*\n" + caption_ig}})
+blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": "*Facebook caption*\n" + caption_fb}})
 blocks.append({"type": "actions", "elements": [
     {"type": "button", "style": "primary", "text": {"type": "plain_text", "text": "Approve & post"},
      "url": f"{worker}/approve?date={TODAY}&token={sign(TODAY)}"},
