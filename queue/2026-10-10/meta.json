@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-10",
+  "type": "authority",
+  "format": "deep_dive",
+  "subject": "Colour psychology",
+  "topic": "Colour psychology",
+  "hook_style": "spot_it",
+  "label": "WEBSITE COLOUR STRATEGY",
+  "caption_ig": "Colour psychology won't fix a website that fails to convert. A blue header doesn't build trust if your offer is confusing, and a red button won't force sales.\n\nWhat actually works? Visual contrast. If your main button shares a shade with your logo and background, visitors miss it completely.\n\nAssign one high-contrast colour solely to your main action button and stop using it anywhere else on the page.\n\n#webdesign #conversionrate #smallbusiness #cro #uidesign",
+  "caption_fb": "A lot of small business owners get caught up in colour psychology myths. They are told blue creates trust or orange drives sales, so they fill their site with brand colours.\n\nIn reality, people click buttons because they can actually see them. If your main button uses the same shade as your header, text, or background, it disappears while people scroll.\n\nTry this today: open your website on your phone and squint. If your eyes don't immediately jump to your primary button, you need more contrast. Pick one distinct shade exclusively for your main action and do not use it anywhere else.",
+  "caption_li": "Colour choice on a business website is functional, not emotional.\n\nOwners often spend hours debating whether green or orange buttons yield higher conversion rates. However, changing a button's shade rarely impacts revenue if the underlying page lacks visual hierarchy.\n\nWhat actually drives clicks is contrast. When your call-to-action shares the same brand shade as your navigation menu, hero section, and icons, it turns into visual noise.\n\nTo improve user flow, isolate one high-contrast accent colour. Use it strictly for your primary conversions and eliminate it from all non-clickable elements.",
+  "slides": [
+    {
+      "title": "Your main button might be invisible to visitors.",
+      "body": "If your main call-to-action uses your primary brand shade, it blends into headers and text. Visitors scroll right past it without reading, costing you direct leads and lost enquiries.",
+      "kicker": "WEBSITE COLOUR STRATEGY"
+    },
+    {
+      "title": "Blue won't fix a page with bad messaging.",
+      "body": "Design blogs claim blue builds trust and red forces urgency. In reality, no specific shade will convince a skeptical buyer if your offer, pricing, or value proposition is unclear."
+    },
+    {
+      "title": "Buttons get clicked because of contrast, not emotion.",
+      "body": "Visitors do not click because a shade triggers a subconscious feeling. They click because the button clearly stands out from every other element on the screen. Contrast drives action."
+    },
+    {
+      "title": "Assign one isolated colour solely to key actions.",
+      "body": "Pick a high-contrast accent colour strictly for your primary buttons. Never use that specific shade anywhere else\u2014not on headings, background blocks, or decorative icons."
+    },
+    {
+      "title": "Run this 5-second visual test on mobile.",
+      "body": "Open your website on your phone and squint. Does your eye instantly snap to the main button? If you have to search for it, your contrast is failing and losing you customers."
+    }
+  ]
+}
