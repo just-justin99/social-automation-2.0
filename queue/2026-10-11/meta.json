@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-11",
+  "type": "education",
+  "format": "list",
+  "subject": "Website mistakes",
+  "topic": "Website mistakes",
+  "hook_style": "bold_claim",
+  "label": "WEBSITE USABILITY",
+  "caption_ig": "Your website traffic isn't the problem\u2014friction is. Before paying for more ads or SEO, test your contact form on your own phone. If it takes longer than 5 seconds to load or complete, you are losing paying clients daily. Save this to review your site tonight.\n\n#webdesign #conversionrate #smallbusinesstips #websiteaudit #leadgeneration",
+  "caption_fb": "Most small business owners think they need more website traffic to get more sales. But more often than not, the issue is user friction. Banners that auto-rotate hide key offers, vague buttons like 'Submit' create hesitation, and long contact forms scare potential clients away. By fixing these three minor issues tonight, you can capture far more leads from the traffic you already have. Have you tested your website form on your phone recently?",
+  "caption_li": "When auditing small business websites, low conversion rates rarely stem from poor service offerings\u2014they stem from unnecessary user friction.\n\nThree recurring layout issues quietly drop enquiry rates across almost every industry:\n\n1. Auto-rotating carousels that hide key value propositions.\n2. Non-descriptive button calls-to-action like 'Submit' or 'Learn More'.\n3. Overly complex lead forms requesting non-essential data upfront.\n\nAddressing these friction points doesn't require a costly site redesign, but it immediately lowers the barrier to entry for prospective clients.\n\nWhen was the last time you completed a test submission on your mobile site?",
+  "slides": [
+    {
+      "title": "3 tiny website mistakes costing you leads today",
+      "body": "You don't need a full redesign to double your enquiries. Fixing these three layout mistakes keeps visitors on your page and stops them from bouncing to a competitor.",
+      "kicker": "WEBSITE USABILITY"
+    },
+    {
+      "title": "Auto-rotating sliders hide your main message",
+      "body": "Visitors rarely wait for a hero image slider to rotate. Important offers buried on slide two or three get completely ignored, especially on mobile devices. Replace it with one static headline.",
+      "kicker": "01"
+    },
+    {
+      "title": "Generic button text causes instant buyer hesitation",
+      "body": "Buttons labeled 'Submit' or 'Learn More' feel like work. Replace them with specific outcomes like 'Get Instant Quote' or 'Book Your Audit' so visitors know exactly what happens next.",
+      "kicker": "02"
+    },
+    {
+      "title": "Every extra form field costs you enquiries",
+      "body": "Phone numbers, street addresses, and drop-down menus trigger drop-offs. Ask only for name and email upfront. You can collect the rest after you establish contact.",
+      "kicker": "03"
+    },
+    {
+      "title": "Fix these three friction points this evening",
+      "body": "Open your website on your mobile phone right now. Replace your slider, rewrite your button text, and delete two unnecessary form fields. Save this guide for your next update."
+    }
+  ]
+}
