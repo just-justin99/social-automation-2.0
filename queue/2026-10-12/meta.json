@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-12",
+  "type": "authority",
+  "format": "deep_dive",
+  "subject": "Client education",
+  "topic": "Client education",
+  "hook_style": "question",
+  "label": "BEFORE YOU HIRE",
+  "caption_ig": "Stop paying for a website redesign just because your current one looks old. Fix the broken funnel first. \n\n#webdesign #smallbusiness #conversionrate #entrepreneur #webstrategy",
+  "caption_fb": "When business owners decide they need a website redesign, the reason is usually that the current site feels dated. But focusing purely on aesthetics often misses the real issue. A visual upgrade will not fix an unclear offer or a broken contact form. Before you reach out to a designer, check your analytics to see where customers actually drop off.",
+  "caption_li": "The most expensive website redesign is the one that only changes how things look.\n\nMany business owners assume that a fresh layout will automatically bring in better clients. But visual polish only amplifies your underlying message. If visitors still cannot figure out your pricing within seconds, a prettier background will not save the sale.\n\nBefore looking for a designer, figure out the specific bottleneck your new site needs to solve.\n\nWhat metric made you first consider a redesign?",
+  "slides": [
+    {
+      "title": "Is your site dated or broken?",
+      "body": "A new coat of paint will not fix low sales if your checkout page crashes or your contact form goes straight to spam.",
+      "kicker": "BEFORE YOU HIRE"
+    },
+    {
+      "title": "Pretty layouts do not fix weak offers.",
+      "body": "Upgrading fonts and colors will not attract better clients if visitors cannot figure out what you sell within five seconds."
+    },
+    {
+      "title": "Design amplifies your message, good or bad.",
+      "body": "If your current page confuses people, a slick new redesign just makes a confusing message look more expensive."
+    },
+    {
+      "title": "Find the leak before hiring a designer.",
+      "body": "Check your analytics. Are people leaving because pricing is hidden, or because the booking link takes three clicks too many?"
+    },
+    {
+      "title": "Pay to solve friction, not boredom.",
+      "body": "Write down the exact business problem your new site must fix before you waste money on pure aesthetics."
+    }
+  ]
+}
