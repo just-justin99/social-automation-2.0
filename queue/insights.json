@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-12",
+  "n_posts": 1,
+  "learning_active": false,
+  "by_type": {
+    "education": {
+      "posts": 1,
+      "avg_score": 0.0
+    }
+  },
+  "by_subject": {
+    "SEO": {
+      "posts": 1,
+      "avg_score": 0.0
+    }
+  },
+  "by_format": {
+    "spot_the_problem": {
+      "posts": 1,
+      "avg_score": 0.0
+    }
+  },
+  "by_hook_style": {
+    "problem_callout": {
+      "posts": 1,
+      "avg_score": 0.0
+    }
+  },
+  "repeat": {
+    "subject": [],
+    "format": [],
+    "hook_style": []
+  },
+  "retire": {
+    "subject": [],
+    "format": [],
+    "hook_style": []
+  },
+  "top_hooks": [
+    {
+      "title": "Look at the browser tab on your homepage.",
+      "attention": 0.0
+    }
+  ],
+  "weak_hooks": [],
+  "best_posts": [
+    {
+      "date": "2026-10-09",
+      "hook": "Look at the browser tab on your homepage.",
+      "score": 0.0,
+      "profile_visits": 0
+    }
+  ],
+  "most_profile_visits": []
+}
