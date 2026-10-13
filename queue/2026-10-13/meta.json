@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-13",
+  "type": "selling",
+  "format": "audit_offer",
+  "subject": "AEO",
+  "topic": "AEO",
+  "hook_style": "spot_it",
+  "label": "AI SEARCH READY",
+  "caption_ig": "If ChatGPT can\u2019t parse your website text, it recommends your competitors instead. Most small business sites bury critical details inside design graphics or creative headings that AI crawlers ignore entirely.\n\nFixing this doesn't require a new website\u2014just simple plain-text structural adjustments.\n\nDM me AUDIT and I will send you a 3-minute video showing how AI tools see your site.\n\n#localseo #webdesign #smallbusinessowner #seotips #aidesign",
+  "caption_fb": "If you type your service and city into ChatGPT right now, does your business show up? If it doesn't, the issue is usually how your website text is formatted. AI search tools cannot read text inside image banners, and they get confused by vague section headings like 'Our Philosophy' when looking for basic details. If you want to see whether search tools can actually read your pages, send me a message with the word AUDIT and I will record a quick, personalized review for you.",
+  "caption_li": "Prospective buyers are increasingly using AI search tools to find local service providers instead of scrolling through traditional search engine results.\n\nHowever, AI assistants process website content differently than human visitors. They cannot parse text embedded inside image banners, nor can they extract reliable answers from ambiguous section headers.\n\nWhen core details like pricing, service area, or process are obscured by formatting, AI search engines simply bypass your website in favor of a clearer competitor.\n\nIf you would like to evaluate how easily AI search tools can read your website, send me a message with the word AUDIT. I will record a brief video review highlighting potential structural issues and practical fixes.",
+  "slides": [
+    {
+      "title": "Search your service and city in ChatGPT today.",
+      "body": "If ChatGPT doesn't list your business, AI search tools can't read your site. You lose leads before buyers even visit. Here are two simple site errors keeping you hidden.",
+      "kicker": "AI SEARCH READY"
+    },
+    {
+      "title": "Important details are saved inside image graphics.",
+      "body": "AI assistants cannot read text saved inside image banners or uploaded graphics. If your pricing, location, or services are stuck inside an image, search tools skip your business completely."
+    },
+    {
+      "title": "Your page headings favor cleverness over clear answers.",
+      "body": "AI tools use headings to extract direct answers. Replacing simple headers like 'How much does it cost?' with creative slogans like 'Invest in Excellence' prevents AI tools from quoting your site."
+    },
+    {
+      "title": "Want to see if AI can read your site?",
+      "body": "Send me a direct message with the word AUDIT. I will record a 3-minute video showing how AI search reads your site, plus two simple text fixes you can make today."
+    }
+  ]
+}
