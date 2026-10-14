@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-14",
+  "type": "education",
+  "format": "list",
+  "subject": "Conversion",
+  "topic": "Conversion",
+  "hook_style": "myth_bust",
+  "label": "CONVERSION MISTAKES",
+  "caption_ig": "Your website visitors won't guess what to do next\u2014they will just leave. Here are 3 clear conversion leaks sitting on your homepage right now and how to fix them fast.\n\nWhich of these mistakes is currently on your site?\n\n#webdesign #conversionrate #smallbusinessowner #leadgeneration #websiteaudit",
+  "caption_fb": "Most local business websites do not suffer from a lack of traffic; they suffer from silent drop-off. When potential clients hit your homepage, any small point of friction\u2014like vague button labels or hidden pricing\u2014gives them a reason to click away to a competitor. Take ten minutes today to open your site on your phone and look at it through a buyer's eyes. Simplifying your main call to action and adding clear starting rates can instantly turn idle browsers into actual enquiries.",
+  "caption_li": "If your website gets steady traffic but disappointing enquiry volume, the issue is rarely your service offering. It is user friction.\n\nWhen prospective clients encounter competing calls to action, vague button copy like 'Submit', or complete price opacity, they experience decision fatigue and abandon the site.\n\nThree high-impact fixes you can make immediately:\n1. Limit each page to one primary target action.\n2. Swap generic button copy for explicit outcome statements.\n3. Publish a 'starting at' price range to self-qualify prospects.\n\nSmall-business websites rarely need complex redesigns to improve conversion\u2014they simply need clear, predictable pathways.",
+  "slides": [
+    {
+      "title": "Most business sites lose leads in 5 seconds",
+      "body": "If a visitor lands on your homepage and cannot tell who you serve, what you do, and how to buy within five seconds, they back out and click a competitor instead.",
+      "kicker": "CONVERSION MISTAKES"
+    },
+    {
+      "title": "1. Three competing buttons mean zero sales",
+      "body": "Asking visitors to call, email, download a PDF, and follow social accounts all on one screen causes decision fatigue. They freeze and leave. Choose one primary action per page.",
+      "kicker": "01"
+    },
+    {
+      "title": "2. 'Submit' buttons kill your conversion rate",
+      "body": "Generic buttons like 'Submit' or 'Click Here' create anxiety because users do not know what happens next. Use specific actions like 'Get Your Instant Quote' or 'Book a Call'.",
+      "kicker": "02"
+    },
+    {
+      "title": "3. 'Contact for pricing' scares serious buyers away",
+      "body": "Hiding costs forces buyers to assume you are expensive or hiding something. You do not need exact figures: publishing a 'starting at' rate filters bad leads and builds trust.",
+      "kicker": "03"
+    },
+    {
+      "title": "Fix your homepage in 10 minutes",
+      "body": "Open your site on a phone. Is your primary call-to-action button visible without scrolling? Does it promise a clear outcome? If not, change that single button text today."
+    }
+  ]
+}
