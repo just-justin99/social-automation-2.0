@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-15",
+  "type": "authority",
+  "format": "deep_dive",
+  "subject": "SEO",
+  "topic": "SEO",
+  "hook_style": "question",
+  "label": "LOCAL SEARCH CLARITY",
+  "caption_ig": "Listing 10 towns in your website footer won't bring in local leads. Google wants dedicated, specific pages for each town you serve\u2014otherwise, competitors get those calls.\n\nHere\u2019s how to fix it:\n1. Pick your top 3 target towns\n2. Create individual pages for each\n3. Add unique local details and real job photos\n\nStop letting easy local traffic slip away.\n\n#localseo #smallbusinessseo #webdesigntips #localleads #googlemaps",
+  "caption_fb": "If you want to get customers from a neighboring town, simply adding that town\u2019s name to your website footer won't cut it anymore. Search engines look for dedicated pages that show clear relevance to that specific area. When a customer searches for your service in their town, Google will almost always favor a competitor who built a page specifically for that location over a general homepage listing 10 different towns. Take a look at your website today\u2014do you have dedicated pages for your main service areas, or are you hoping Google just figures it out?",
+  "caption_li": "A common mistake I see on local business websites is relying on a single homepage to rank across multiple geographic markets.\n\nOwners often list ten surrounding towns in the footer, expecting Google to index them for all of those locations. In reality, search algorithms prioritize high-relevance pages designed for specific local search intent.\n\nTo capture search traffic in adjacent markets:\n\n\u2022 Identify your highest-value target towns.\n\u2022 Build distinct location pages with unique, localized content.\n\u2022 Include genuine client proof and project references from that area.\n\nAvoid duplicating copy across these pages, as search engines filter out repeated content.\n\nDoes your current site structure accurately reflect the geographic areas driving your revenue?",
+  "slides": [
+    {
+      "title": "Putting 10 towns in your footer won't rank you.",
+      "body": "Most business owners paste a list of service areas at the bottom of their homepage. Google views this as low-effort keyword stuffing and ignores it for local searches.",
+      "kicker": "LOCAL SEARCH CLARITY"
+    },
+    {
+      "title": "Google favors pages built for one specific town.",
+      "body": "When a customer searches 'roof repair in [Town]', Google looks for a page dedicated to that exact area. A general homepage listing 15 towns loses to a competitor's dedicated page."
+    },
+    {
+      "title": "Never copy-paste the exact same text across location pages.",
+      "body": "Creating 5 town pages with identical copy except the city name triggers duplicate content filters. Google drops those pages from search results entirely."
+    },
+    {
+      "title": "How to make location pages Google actually ranks.",
+      "body": "Build 3\u20135 dedicated pages for your top revenue areas. Include local project photos, client testimonials from that town, and specific landmark references to prove you actually work there."
+    },
+    {
+      "title": "How to check if your site has this problem.",
+      "body": "Search Google for '[your service] in [neighboring town]'. If your website doesn't appear on page one, you are losing local leads to competitors with dedicated location pages."
+    }
+  ]
+}
