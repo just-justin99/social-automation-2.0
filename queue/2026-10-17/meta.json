@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-17",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Website mistakes",
+  "topic": "Website mistakes",
+  "hook_style": "myth_bust",
+  "label": "WEBSITE TEXT",
+  "caption_ig": "Most visitors skip full paragraphs and scan for specific answers. If your prices, process, or turnarounds are buried in text blocks, potential clients simply hit back and pick someone else. Try editing your site for skimmers today.\n\n#websitecopy #smallbusinesstips #webdesign #cro #copywritingtips",
+  "caption_fb": "Before you pay someone to rewrite all your website copy, take a close look at how it looks on a phone screen. Most small-business websites don't fail because the writing is bad\u2014they fail because the text is formatted like an essay. If a visitor has to read three dense sentences to figure out how long a job takes, they usually just close the tab. Turning key details into bullet points and specific headings makes your existing copy work twice as hard.",
+  "caption_li": "Website redesigns often focus on vocabulary when layout is the real conversion killer.\n\nWhen reviewing client websites, I frequently find excellent selling points hidden inside dense text blocks. Most visitors skim pages looking for key indicators: turnarounds, specific deliverables, and pricing structures.\n\nWhen those details require reading full paragraphs, user bounce rates spike.\n\nBefore overhauling your copy, audit your visual formatting. Bold key terms, replace generic headings with direct outcomes, and turn multi-sentence explanations into bullet points. Clear structure typically yields immediate improvements in engagement without changing a single core message.",
+  "slides": [
+    {
+      "title": "Your visitors skip 80% of your website text",
+      "body": "People don't read line-by-line; they scan for prices, timelines, and guarantees. If your key details sit inside a four-line paragraph, potential clients hit back and find a competitor who makes it obvious.",
+      "kicker": "WEBSITE TEXT"
+    },
+    {
+      "title": "Turn service descriptions into scannable lists",
+      "body": "Before: A four-sentence paragraph explaining your delivery process.\n\nAfter: Three bulleted steps with bold first words.\n\nWhy: Buyers scan for process details. Bullets force them to stop scrolling and actually notice how you work."
+    },
+    {
+      "title": "Replace generic headers with direct answers",
+      "body": "Before: 'Our Process'\n\nAfter: 'How we finish every job in 48 hours'\n\nWhy: Vague headers force people to read dense paragraphs. Specific headers pitch your service before visitors even touch the body text."
+    },
+    {
+      "title": "Fix your layout before you rewrite your copy",
+      "body": "Your writing might be fine; your layout is losing sales. Bold key phrases, break up walls of text, and place core details where mobile skimmers look first. Readability converts existing traffic fast."
+    }
+  ]
+}
