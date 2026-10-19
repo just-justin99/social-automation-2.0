@@ -1,15 +1,39 @@
 {
-  "updated": "2026-10-12",
-  "n_posts": 1,
+  "updated": "2026-10-19",
+  "n_posts": 7,
   "learning_active": false,
   "by_type": {
     "education": {
-      "posts": 1,
+      "posts": 4,
       "avg_score": 0.0
+    },
+    "authority": {
+      "posts": 2,
+      "avg_score": 30.4
+    },
+    "selling": {
+      "posts": 1,
+      "avg_score": 180.4
     }
   },
   "by_subject": {
     "SEO": {
+      "posts": 2,
+      "avg_score": 30.2
+    },
+    "Branding": {
+      "posts": 1,
+      "avg_score": 0.0
+    },
+    "Website mistakes": {
+      "posts": 1,
+      "avg_score": 0.0
+    },
+    "Client education": {
+      "posts": 1,
+      "avg_score": 0.4
+    },
+    "Conversion": {
       "posts": 1,
       "avg_score": 0.0
     }
@@ -18,18 +42,48 @@
     "spot_the_problem": {
       "posts": 1,
       "avg_score": 0.0
+    },
+    "before_after": {
+      "posts": 1,
+      "avg_score": 0.0
+    },
+    "list": {
+      "posts": 2,
+      "avg_score": 0.0
+    },
+    "deep_dive": {
+      "posts": 2,
+      "avg_score": 30.4
     }
   },
   "by_hook_style": {
     "problem_callout": {
       "posts": 1,
       "avg_score": 0.0
+    },
+    "myth_bust": {
+      "posts": 2,
+      "avg_score": 0.0
+    },
+    "bold_claim": {
+      "posts": 1,
+      "avg_score": 0.0
+    },
+    "question": {
+      "posts": 2,
+      "avg_score": 30.4
     }
   },
   "repeat": {
-    "subject": [],
-    "format": [],
-    "hook_style": []
+    "subject": [
+      "SEO"
+    ],
+    "format": [
+      "deep_dive"
+    ],
+    "hook_style": [
+      "question"
+    ]
   },
   "retire": {
     "subject": [],
@@ -38,12 +92,45 @@
   },
   "top_hooks": [
     {
+      "title": "Is your site dated or broken?",
+      "attention": 1.0
+    },
+    {
+      "title": "Putting 10 towns in your footer won't rank you.",
+      "attention": 1.0
+    },
+    {
       "title": "Look at the browser tab on your homepage.",
       "attention": 0.0
     }
   ],
-  "weak_hooks": [],
+  "weak_hooks": [
+    {
+      "title": "Most business sites lose leads in 5 seconds",
+      "attention": 0.0
+    },
+    {
+      "title": "3 tiny website mistakes costing you leads today",
+      "attention": 0.0
+    },
+    {
+      "title": "Cheap design makes premium prices feel fake",
+      "attention": 0.0
+    }
+  ],
   "best_posts": [
+    {
+      "date": "2026-10-15",
+      "hook": "Putting 10 towns in your footer won't rank you.",
+      "score": 60.4,
+      "profile_visits": 0
+    },
+    {
+      "date": "2026-10-12",
+      "hook": "Is your site dated or broken?",
+      "score": 0.4,
+      "profile_visits": 0
+    },
     {
       "date": "2026-10-09",
       "hook": "Look at the browser tab on your homepage.",
