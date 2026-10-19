@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-19",
+  "type": "education",
+  "format": "deep_dive",
+  "subject": "AEO",
+  "topic": "AEO",
+  "hook_style": "question",
+  "label": "AI SEARCH OPTIMIZATION",
+  "caption_ig": "If AI assistants cannot summarize your services in one sentence, they will never recommend your business. Swap clever slogans for direct answers on your main pages today.\n\n#smallbiztips #searchengineoptimization #webdesign #digitalstrategy #businessowner",
+  "caption_fb": "When people ask AI assistants for local recommendations, how often does your business get mentioned? Most company websites rely on clever slogans and buried paragraphs that algorithms cannot parse. Modern search tools look for direct, clear answers to surface local services. If an AI tool cannot easily extract what you do, it skips your site entirely. Try adding straightforward question-and-answer sections to your core service pages today.",
+  "caption_li": "More potential clients now start their research inside AI assistants rather than traditional search engines.\n\nThis shift changes how business websites must be structured.\n\nTraditional SEO focuses on keywords and rankings. Answer engines focus on clarity and direct extraction. If your service descriptions hide behind vague marketing copy, AI tools cannot quote your business.\n\nReview your main service pages today. Do they state clearly what you do in plain sentences that a machine can easily parse?\n\nHow is your website adapting to AI search tools?",
+  "slides": [
+    {
+      "title": "Does ChatGPT recommend your business or skip it?",
+      "body": "When users ask AI for local services, models extract specific sentences. If your answers are buried inside heavy paragraphs or clever slogans, the AI bypasses your site entirely.",
+      "kicker": "AI SEARCH OPTIMIZATION"
+    },
+    {
+      "title": "Ranking #1 on Google no longer guarantees AI citations.",
+      "body": "Traditional SEO relies on keywords and links. AI search engines ignore your homepage layout and scan for plain definitions and direct answers they can quote verbatim to users."
+    },
+    {
+      "title": "Clever marketing copy actively breaks AI search engines.",
+      "body": "Ambiguous taglines and vague brand stories confuse language models. If an algorithm cannot parse what your service costs and who it is for in two seconds, it recommends a competitor."
+    },
+    {
+      "title": "Add a structured FAQ to your core service pages.",
+      "body": "List the exact pricing, turnaround time, and location questions customers ask before buying. Answer each in two direct sentences right beneath the heading so crawlers can easily grab them."
+    },
+    {
+      "title": "Make your service pages instantly quotable for algorithms.",
+      "body": "Stop writing exclusively for human browsers. When your facts are formatted for software to parse cleanly, your business shows up inside AI answers while competitors remain invisible."
+    }
+  ]
+}
