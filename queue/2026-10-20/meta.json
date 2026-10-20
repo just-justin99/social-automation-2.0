@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-20",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Client education",
+  "topic": "Client education",
+  "hook_style": "problem_callout",
+  "label": "WEBSITE NAVIGATION",
+  "caption_ig": "Your navigation bar is a signpost, not a puzzle. If visitors have to decipher clever labels like 'Solutions' or navigate seven header links on a phone, they bounce.\n\nAudit your header today:\n1. Limit to 5 navigation links max\n2. Use plain, explicit names\n3. Style your main CTA as a bold button\n\nFix it in 10 minutes to stop losing leads.\n\n#websiteaudit #smallbusiness #conversionrate #webdesign #uxdesign",
+  "caption_fb": "Ever landed on a business website and couldn't figure out where to click to actually hire them? Many small business websites make this exact mistake in their top navigation bar.\n\nWhen you use vague menu names like 'Approach' or list eight different pages in your header, visitors get overwhelmed and close the page. On mobile screens, crowded menus look even worse.\n\nTake a quick look at your site header on your phone today. Keep your main links down to four or five plain names, and turn your primary action\u2014like 'Get a Quote'\u2014into a high-contrast button.",
+  "caption_li": "Website navigation is often treated as a branding exercise, but its sole operational function is reducing friction for potential buyers.\n\nWhen business owners fill their site headers with internal jargon ('Capabilities', 'Solutions', 'Framework'), they force prospects to guess where key information lives. Unpredictable menus consistently lower conversion efficiency, particularly on mobile devices where screen space is constrained.\n\nStreamlining your header requires three adjustments:\n- Limit primary navigation to five core items.\n- Replace abstract labels with descriptive language (e.g., 'Services', 'Pricing').\n- Separate your key conversion action visually as a dedicated call-to-action button.\n\nIs your current header optimized for clarity, or does it require guessing?",
+  "slides": [
+    {
+      "title": "Confusing website menus silently kill potential sales.",
+      "body": "When visitors cannot tell where to click next, they close the tab instead of guessing. A bloated or cryptic navigation bar turns interested buyers away before they read a single line of your offer.",
+      "kicker": "WEBSITE NAVIGATION"
+    },
+    {
+      "title": "More than five menu links overloads your visitors.",
+      "body": "Packing your header with eight equal options forces visitors to weigh every link. On mobile screens, this creates an unreadable stack that hides your core services from immediate view.",
+      "kicker": "01"
+    },
+    {
+      "title": "Clever menu labels hide what you actually sell.",
+      "body": "Words like 'Approach', 'Solutions', or 'Experience' sound professional, but clients rarely click links when they cannot predict the content. Use explicit terms like 'Services', 'Work', or 'Pricing'.",
+      "kicker": "02"
+    },
+    {
+      "title": "Your primary call-to-action is blending in.",
+      "body": "If 'Book a Call' or 'Get a Quote' looks identical to 'About Us', visitors skip right over it. Make your top goal a bold, high-contrast button that visually stands out from routine links.",
+      "kicker": "03"
+    },
+    {
+      "title": "Fix your header menu in three quick steps.",
+      "body": "Trim your main header to 4\u20135 essential items. Rename clever labels to plain descriptions of what you offer. Turn your primary conversion action into a distinct, high-contrast button on the far right."
+    }
+  ]
+}
