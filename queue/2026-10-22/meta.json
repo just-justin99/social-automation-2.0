@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-22",
+  "type": "authority",
+  "format": "process",
+  "subject": "Things your website should have",
+  "topic": "Things your website should have",
+  "hook_style": "question",
+  "label": "WEBSITE ESSENTIALS",
+  "caption_ig": "Your website doesn't need a total redesign to convert better\u2014it just needs to answer basic questions upfront.\n\nWhen pricing is hidden, forms lack response times, or next steps are vague, qualified buyers leave. Fix these three details first.\n\nWhich of these three is missing on your site right now?\n\n#webdesign #conversionrate #smallbusinesstips #websiteaudit #userexperience",
+  "caption_fb": "When small business owners tell me their website isn't bringing in leads, they usually think they need a shiny expensive redesign. Most of the time, they don't.\n\nThey just need to fix three simple things: add a starting price, list a response timeline on their contact form, and clearly explain what happens after someone books a call.\n\nWhen you remove that uncertainty, buyers feel comfortable reaching out. Have you checked your site for these friction points lately?",
+  "caption_li": "Most website redesigns fail to increase conversions because they focus on visual polish rather than buyer clarity.\n\nWhen reviewing B2B and service-based sites, I consistently see three friction points:\n\n1. No pricing indicators (causing buyers to assume high costs)\n2. A contact form with no stated response timeline\n3. No explanation of what happens after submitting an inquiry\n\nRemoving these barriers requires zero design budget, yet directly impacts inquiry volume.\n\nBefore investing in new visuals, audit your existing site against these three fundamentals.",
+  "slides": [
+    {
+      "title": "3 website mistakes costing you ready-to-buy clients",
+      "body": "Most buyers leave a site not because it looks bad, but because basic information is missing. If your site lacks these three details, visitors bounce to competitors who make buying easy.",
+      "kicker": "WEBSITE ESSENTIALS"
+    },
+    {
+      "title": "Hiding your prices makes you look too expensive",
+      "body": "When visitors don't see a starting rate, they assume the worst: you're out of their budget. Adding 'packages start at $X' filters out bad fits while keeping qualified leads from leaving."
+    },
+    {
+      "title": "A contact form alone feels like a black hole",
+      "body": "People hate filling out forms without knowing when you'll reply. Add a direct email, phone number, and a line saying 'We respond within 24 hours' to instantly boost form submissions."
+    },
+    {
+      "title": "Without clear next steps, interested leads stall out",
+      "body": "If someone submits a form, what happens next? Spell out your process in 3 simple steps (e.g., 15-minute call, custom quote, kickoff). People don't book sales calls when they fear aggressive pitch meetings."
+    },
+    {
+      "title": "Test your own website like a first-time buyer",
+      "body": "Open your site on mobile today. Can a user find your starting prices, contact response time, and booking process in 30 seconds? If not, fix those three things before spending a dollar on redesigns."
+    }
+  ]
+}
