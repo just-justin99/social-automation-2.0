@@ -1,38 +1,38 @@
 {
   "date": "2026-10-23",
   "type": "education",
-  "format": "spot_the_problem",
+  "format": "list",
   "subject": "Typography",
   "topic": "Typography",
-  "hook_style": "problem_callout",
+  "hook_style": "myth_bust",
   "label": "WEBSITE TYPOGRAPHY",
-  "caption_ig": "If reading your website feels like work, visitors won't bother doing it. Light gray text, tiny 14px fonts, and ultra-wide paragraphs create friction that costs you sales.\n\nTest your site on your phone today in direct sunlight. If you have to squint or zoom in, your prospects are leaving.\n\n#smallbusinesswebsite #webdesigntips #conversionrate #websiteconversion #typography",
-  "caption_fb": "Most small business owners choose website fonts based on how they look, not how easy they are to read. But if someone has to squint at light gray text or zoom in on tiny paragraph text on their phone, they usually just leave.\n\nYou don't need a total website redesign to fix this. Log into your site editor today and make three quick adjustments: set your paragraph font to 18px, switch light gray text to solid dark charcoal, and narrow your text columns so lines don't stretch across the entire screen. Your offer will immediately be easier to read and understand.",
-  "caption_li": "Bad website typography rarely triggers complaints; it simply triggers high bounce rates.\n\nWhen prospective clients evaluate a service provider, any friction in processing information reduces trust. Three common issues regularly hurt small business websites:\n\n1. Low contrast (light gray body text)\n2. Sub-16px font sizes on mobile screens\n3. Full-width text blocks on desktop displays that break eye tracking\n\nBy increasing base font size to 18px, raising contrast, and capping text column widths to roughly 70 characters, you immediately improve readability and keep prospects engaged with your core offer.",
+  "caption_ig": "If your website text is hard to read, visitors won't stay to figure out what you sell. \ud83d\udcf1\n\nFix these 4 common typography mistakes today:\n1. Body text smaller than 16px\n2. Light gray text on white backgrounds\n3. More than 2 font families\n4. Text spanning the full screen width\n\nSave this post and audit your homepage today!\n\n#webdesign #smallbusiness #conversionrate #usability #websiteadvice",
+  "caption_fb": "Most small business owners choose website fonts based on aesthetic preference, but hard-to-read text directly impacts your bottom line. When potential clients have to strain their eyes or lose their place reading your copy, they leave without inquiring. Ensuring your text is high contrast, set to at least 16px, and limited to two clean font families makes your website instantly easier to navigate. Take five minutes today to check your homepage on a mobile device in bright light\u2014you might find a quick fix that keeps leads on your site longer.",
+  "caption_li": "Website typography is rarely viewed as a conversion issue, but poor readability quietly loses prospective clients.\n\nWhen text lacks contrast, lines span too wide across desktop monitors, or body copy is sized below 16 pixels, reading becomes work. Most visitors will simply bounce rather than fight through bad formatting.\n\nTo ensure your message lands clearly:\n- Keep body text at 16px or larger\n- Stick to dark text on light backgrounds\n- Limit your site to two font families\n- Restrict text column widths on desktop\n\nWhen reading requires zero effort, prospects spend more time evaluating your offer. Have you checked how your website reads on a mobile device recently?",
   "slides": [
     {
-      "title": "Low-contrast text makes buyers leave without reading.",
-      "body": "If your text is light gray, people reading on phones outdoors can't see it. When reading takes physical effort, visitors hit the back button instead of asking for a quote.",
+      "title": "Decorative fonts are costing you homepage leads.",
+      "body": "If visitors cannot scan your services in three seconds because of a script or fancy font, they leave. Use clean, simple fonts so your offer and pricing are instantly clear on mobile.",
       "kicker": "WEBSITE TYPOGRAPHY"
     },
     {
-      "title": "Body text under 16px looks microscopic on phones.",
-      "body": "Pinching to zoom ruins the user experience. If your service descriptions use standard 12px print font sizes, mobile visitors scroll past your key offer details entirely.",
+      "title": "1. Light gray text vanishes on mobile screens.",
+      "body": "Low contrast text strains the eyes, especially outdoors. If your copy is light gray on a white background, visitors give up trying to read your pitch. Switch to dark gray or black.",
       "kicker": "01"
     },
     {
-      "title": "Cursive headers slow down people skimming your site.",
-      "body": "Visitors scan websites in seconds. If a decorative headline takes mental energy to decode, readers skip past it entirely\u2014missing the main reason to hire you.",
+      "title": "2. Using more than two fonts creates confusion.",
+      "body": "Mixing three or four typefaces makes your business look disorganized. Limit your site to two fonts: one for headings and one for main body copy. This guides eyes straight to your call-to-action.",
       "kicker": "02"
     },
     {
-      "title": "Full-width text lines cause readers to lose place.",
-      "body": "When desktop text stretches across the whole screen, the eye struggles to track back to the next line. Readers skip long sentences completely.",
+      "title": "3. Full-width desktop text lines kill readability.",
+      "body": "When text stretches across a wide screen, readers lose their place moving to the next line. Keep paragraph columns under 75 characters wide so visitors actually read your entire sales offer.",
       "kicker": "03"
     },
     {
-      "title": "Three typography settings to change on your website.",
-      "body": "Set body text to dark charcoal, increase font size to at least 18px, and limit text width to 70 characters. Your page becomes instantly easier to read."
+      "title": "A 4-step typography checklist for your website:",
+      "body": "1. Body font size is 16px minimum. 2. High-contrast dark text on light background. 3. Max two font families used. 4. Text columns capped on desktop. Fix these to keep potential buyers reading."
     }
   ]
 }
