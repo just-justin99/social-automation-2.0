@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-23",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Typography",
+  "topic": "Typography",
+  "hook_style": "problem_callout",
+  "label": "WEBSITE TYPOGRAPHY",
+  "caption_ig": "If reading your website feels like work, visitors won't bother doing it. Light gray text, tiny 14px fonts, and ultra-wide paragraphs create friction that costs you sales.\n\nTest your site on your phone today in direct sunlight. If you have to squint or zoom in, your prospects are leaving.\n\n#smallbusinesswebsite #webdesigntips #conversionrate #websiteconversion #typography",
+  "caption_fb": "Most small business owners choose website fonts based on how they look, not how easy they are to read. But if someone has to squint at light gray text or zoom in on tiny paragraph text on their phone, they usually just leave.\n\nYou don't need a total website redesign to fix this. Log into your site editor today and make three quick adjustments: set your paragraph font to 18px, switch light gray text to solid dark charcoal, and narrow your text columns so lines don't stretch across the entire screen. Your offer will immediately be easier to read and understand.",
+  "caption_li": "Bad website typography rarely triggers complaints; it simply triggers high bounce rates.\n\nWhen prospective clients evaluate a service provider, any friction in processing information reduces trust. Three common issues regularly hurt small business websites:\n\n1. Low contrast (light gray body text)\n2. Sub-16px font sizes on mobile screens\n3. Full-width text blocks on desktop displays that break eye tracking\n\nBy increasing base font size to 18px, raising contrast, and capping text column widths to roughly 70 characters, you immediately improve readability and keep prospects engaged with your core offer.",
+  "slides": [
+    {
+      "title": "Low-contrast text makes buyers leave without reading.",
+      "body": "If your text is light gray, people reading on phones outdoors can't see it. When reading takes physical effort, visitors hit the back button instead of asking for a quote.",
+      "kicker": "WEBSITE TYPOGRAPHY"
+    },
+    {
+      "title": "Body text under 16px looks microscopic on phones.",
+      "body": "Pinching to zoom ruins the user experience. If your service descriptions use standard 12px print font sizes, mobile visitors scroll past your key offer details entirely.",
+      "kicker": "01"
+    },
+    {
+      "title": "Cursive headers slow down people skimming your site.",
+      "body": "Visitors scan websites in seconds. If a decorative headline takes mental energy to decode, readers skip past it entirely\u2014missing the main reason to hire you.",
+      "kicker": "02"
+    },
+    {
+      "title": "Full-width text lines cause readers to lose place.",
+      "body": "When desktop text stretches across the whole screen, the eye struggles to track back to the next line. Readers skip long sentences completely.",
+      "kicker": "03"
+    },
+    {
+      "title": "Three typography settings to change on your website.",
+      "body": "Set body text to dark charcoal, increase font size to at least 18px, and limit text width to 70 characters. Your page becomes instantly easier to read."
+    }
+  ]
+}
