@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-24",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Accessibility",
+  "topic": "Accessibility",
+  "hook_style": "problem_callout",
+  "label": "WEBSITE ACCESSIBILITY",
+  "caption_ig": "Most business owners don't realize their site is hard to use until conversion rates drop. Accessibility isn't an edge case\u2014it's basic usability for people on phones, in bright sunlight, or using keyboard shortcuts. \n\nTry the 30-second keyboard test on your own homepage today and see where visitors get stuck.\n\n#websiteaccessibility #cro #smallbusinesswebsite #webdesign #userexperience",
+  "caption_fb": "When business owners hear 'website accessibility,' they usually think it's a complicated legal requirement that only affects a tiny group of people. In reality, bad accessibility ruins the user experience for everyone.\n\nIf your website uses light gray text, it becomes unreadable when someone views it outside on their phone. If your contact form removes visual outlines when clicking between fields, keyboard users get stuck. \n\nBefore launching your next campaign, unplug your mouse and try navigating your checkout or contact page using only the Tab key. You might be surprised by where your potential customers are getting frustrated and bouncing.",
+  "caption_li": "Website accessibility is often framed purely as a legal compliance issue, but for small businesses, it is fundamentally a revenue issue.\n\nWhen auditing client websites, three common issues consistently ruin user experience:\n1. Low contrast text that disappears on mobile devices in bright light.\n2. Form fields that lose visual focus when navigating without a mouse.\n3. Product images and trust icons lacking descriptive alt text.\n\nThese technical friction points directly impact your conversion rate. An accessible website loads cleaner, works seamlessly across all devices, and reduces unnecessary checkout drop-offs.\n\nHave you ever audited your business website using only keyboard navigation?",
+  "slides": [
+    {
+      "title": "Is your website secretly ignoring ready buyers?",
+      "body": "If someone cannot read your text in direct sunlight, tap a tiny button on mobile, or navigate without a mouse, they leave. Accessibility fixes aren't just for compliance\u2014they stop everyday sales drop-offs.",
+      "kicker": "WEBSITE ACCESSIBILITY"
+    },
+    {
+      "title": "Your product photos might be invisible to screen readers.",
+      "body": "Screen readers speak image descriptions aloud. If your product photos, trust badges, or price charts lack alt text, vision-impaired shoppers hear nothing. They miss your main selling points and quietly exit.",
+      "kicker": "01"
+    },
+    {
+      "title": "Try hitting 'Tab' to test your contact form.",
+      "body": "Many buyers use the Tab key to jump through form fields. If your site removes the outline around active fields, visitors get lost, click the wrong button, or abandon the quote request completely.",
+      "kicker": "02"
+    },
+    {
+      "title": "Light gray text vanishes on mobile screens outdoors.",
+      "body": "Trendy thin, light-gray text looks sleek in design mockups, but it becomes unreadable on a phone in sunlight. If visitors can't easily scan your offer, they won't squint\u2014they will leave.",
+      "kicker": "03"
+    },
+    {
+      "title": "Quick test: Check your own site in 30 seconds.",
+      "body": "Put down your mouse and press Tab to navigate your menu and contact form. If you lose track of where you are, your visitors do too. Fixing this usually takes minutes in your website builder."
+    }
+  ]
+}
