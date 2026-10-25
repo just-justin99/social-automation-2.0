@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Conversion",
+  "topic": "Conversion",
+  "hook_style": "spot_it",
+  "label": "WEBSITE CONVERSION",
+  "caption_ig": "Your website visitors aren't leaving because they lack interest. They leave because your contact process feels unpredictable.\n\nWhen a button says 'Submit', nobody knows what happens next. Does it send an email? Sign them up for spam? Trigger a sales call?\n\nSpecific button text like 'Get a 10-Minute Estimate' gives visitors control and fixes conversion leaks fast.\n\n#websiteoptimization #conversionrate #smallbusinesstips #webdesign #leadgeneration",
+  "caption_fb": "If your website gets visitors but very few phone calls or form submissions, check your main action button.\n\nMost small business websites use generic text like 'Submit', 'Contact Us', or 'Get Started'. The problem? Visitors don't know what clicking actually does, so they hesitate and close the tab.\n\nIf you change 'Contact Us' to 'Request a 10-Minute Estimate' and cut your form down to three fields, you remove that anxiety. People reach out when the next step is clear and low effort.",
+  "caption_li": "Vague calls to action and long contact forms quietly drain conversion rates on service business websites.\n\nWhen auditing client sites, two simple fixes consistently increase lead volume:\n\n1. Replacing generic button labels like 'Submit' with clear outcomes like 'Get a 10-Minute Quote'.\n2. Stripping contact forms down to basic contact info, saving intake questions for the follow-up.\n\nIf prospective buyers cannot predict what happens after they submit a form, they abandon the process. Clarity builds trust faster than fancy design.",
+  "slides": [
+    {
+      "title": "Spot a hidden conversion leak in 30 seconds.",
+      "body": "Open your homepage on your phone. If your main button says 'Submit' or 'Contact Us', visitors hesitate. They do not know if clicking triggers an unexpected call, a hard sales pitch, or an instant price.",
+      "kicker": "WEBSITE CONVERSION"
+    },
+    {
+      "title": "Replace generic button labels with specific outcomes.",
+      "body": "Avoid: 'Submit' or 'Get Started'. Use: 'Get a 10-Minute Quote' or 'Book a Call'. Specific text tells visitors the exact time cost and next step, removing hesitation before they click."
+    },
+    {
+      "title": "Every unnecessary form field costs you leads.",
+      "body": "Requiring phone numbers, addresses, or budgets upfront stops prospective clients from reaching out. Stick to Name, Email, and Message. Gather details during your first conversation, not on your website form."
+    },
+    {
+      "title": "Audit your website lead form right now.",
+      "body": "Hand your phone to a friend and ask them to request a quote. If they hesitate, question a form field, or ask what happens next, your site is actively turning away qualified buyers."
+    }
+  ]
+}
