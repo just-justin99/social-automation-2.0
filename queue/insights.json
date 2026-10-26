@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-19",
-  "n_posts": 7,
-  "learning_active": false,
+  "updated": "2026-10-26",
+  "n_posts": 11,
+  "learning_active": true,
   "by_type": {
     "education": {
-      "posts": 4,
-      "avg_score": 0.0
+      "posts": 7,
+      "avg_score": 25.829
     },
     "authority": {
-      "posts": 2,
-      "avg_score": 30.4
+      "posts": 3,
+      "avg_score": 20.267
     },
     "selling": {
       "posts": 1,
@@ -30,35 +30,51 @@
       "avg_score": 0.0
     },
     "Client education": {
-      "posts": 1,
-      "avg_score": 0.4
+      "posts": 2,
+      "avg_score": 0.2
     },
     "Conversion": {
+      "posts": 1,
+      "avg_score": 0.0
+    },
+    "Things businesses get wrong": {
+      "posts": 1,
+      "avg_score": 180.8
+    },
+    "Brand strategy": {
+      "posts": 1,
+      "avg_score": 0.0
+    },
+    "Things your website should have": {
       "posts": 1,
       "avg_score": 0.0
     }
   },
   "by_format": {
     "spot_the_problem": {
-      "posts": 1,
-      "avg_score": 0.0
+      "posts": 3,
+      "avg_score": 60.267
     },
     "before_after": {
       "posts": 1,
       "avg_score": 0.0
     },
     "list": {
-      "posts": 2,
+      "posts": 3,
       "avg_score": 0.0
     },
     "deep_dive": {
       "posts": 2,
       "avg_score": 30.4
+    },
+    "process": {
+      "posts": 1,
+      "avg_score": 0.0
     }
   },
   "by_hook_style": {
     "problem_callout": {
-      "posts": 1,
+      "posts": 2,
       "avg_score": 0.0
     },
     "myth_bust": {
@@ -70,8 +86,16 @@
       "avg_score": 0.0
     },
     "question": {
-      "posts": 2,
-      "avg_score": 30.4
+      "posts": 3,
+      "avg_score": 20.267
+    },
+    "spot_it": {
+      "posts": 1,
+      "avg_score": 180.8
+    },
+    "hidden_cost": {
+      "posts": 1,
+      "avg_score": 0.0
     }
   },
   "repeat": {
@@ -79,6 +103,7 @@
       "SEO"
     ],
     "format": [
+      "spot_the_problem",
       "deep_dive"
     ],
     "hook_style": [
@@ -87,10 +112,16 @@
   },
   "retire": {
     "subject": [],
-    "format": [],
+    "format": [
+      "list"
+    ],
     "hook_style": []
   },
   "top_hooks": [
+    {
+      "title": "Cover your logo and read your hero headline.",
+      "attention": 2.0
+    },
     {
       "title": "Is your site dated or broken?",
       "attention": 1.0
@@ -98,27 +129,29 @@
     {
       "title": "Putting 10 towns in your footer won't rank you.",
       "attention": 1.0
-    },
-    {
-      "title": "Look at the browser tab on your homepage.",
-      "attention": 0.0
     }
   ],
   "weak_hooks": [
     {
-      "title": "Most business sites lose leads in 5 seconds",
+      "title": "3 website mistakes costing you ready-to-buy clients",
       "attention": 0.0
     },
     {
-      "title": "3 tiny website mistakes costing you leads today",
+      "title": "Confusing website menus silently kill potential sales.",
       "attention": 0.0
     },
     {
-      "title": "Cheap design makes premium prices feel fake",
+      "title": "If your homepage speaks to everyone, premium buyers leave.",
       "attention": 0.0
     }
   ],
   "best_posts": [
+    {
+      "date": "2026-10-16",
+      "hook": "Cover your logo and read your hero headline.",
+      "score": 180.8,
+      "profile_visits": 0
+    },
     {
       "date": "2026-10-15",
       "hook": "Putting 10 towns in your footer won't rank you.",
@@ -129,12 +162,6 @@
       "date": "2026-10-12",
       "hook": "Is your site dated or broken?",
       "score": 0.4,
-      "profile_visits": 0
-    },
-    {
-      "date": "2026-10-09",
-      "hook": "Look at the browser tab on your homepage.",
-      "score": 0.0,
       "profile_visits": 0
     }
   ],
