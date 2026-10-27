@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-27",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "UI/UX",
+  "topic": "UI/UX",
+  "hook_style": "question",
+  "label": "MOBILE NAVIGATION TEST",
+  "caption_ig": "Mobile visitors do not tolerate tiny friction points. If your input fonts are under 16px, iPhones force a page zoom that wrecks your layout. If your buttons are crammed together, users misclick and leave. Run the one-thumb test today on your site.\n\n#webdesign #conversionrate #mobilesite #smallbusinesswebsite #cro",
+  "caption_fb": "Most small business owners design and check their website on a widescreen desktop monitor. But over 60% of your potential clients are looking at it on a phone while holding a coffee or walking down the street.\n\nWhen input fonts trigger forced zooming or buttons are crammed too close together, visitors run into instant friction. They will not email you to complain\u2014they just exit and visit your competitor instead.\n\nTake five minutes today to open your site on your phone, hold it in one hand, and try submitting your contact form using only your thumb. You will instantly see where you are losing leads.",
+  "caption_li": "When auditing lead generation for small business websites, mobile UX flaws are consistently the highest friction point.\n\nSmall technical oversights\u2014like setting form input font sizes below 16px (which triggers forced layout zooming on iOS) or placing call-to-action buttons under 48 pixels in height\u2014directly degrade conversion rates.\n\nA simple, zero-cost audit method: open your website on a mobile device and complete your primary conversion goal using only one thumb while walking.\n\nIf you experience misclicks, layout shifts, or hidden labels, your prospective clients are experiencing the exact same barriers.",
+  "slides": [
+    {
+      "title": "Buttons under 48 pixels cost you mobile leads",
+      "body": "If your primary button sits within 8 pixels of another link, single-thumb users tap the wrong link. They rarely click back\u2014they just hit exit and call a competitor.",
+      "kicker": "MOBILE NAVIGATION TEST"
+    },
+    {
+      "title": "Inputs under 16px force iOS to auto-zoom",
+      "body": "When a visitor taps a text field with 14px font, iPhones forcibly zoom the entire page in. Your layout breaks, inputs get hidden, and forms get abandoned mid-type.",
+      "kicker": "01"
+    },
+    {
+      "title": "Disappearing field labels trigger form abandonment",
+      "body": "Using placeholder text inside fields instead of labels above them means instructions vanish as soon as typing starts. If someone makes a typo, they cannot tell which box is broken.",
+      "kicker": "02"
+    },
+    {
+      "title": "Off-screen pop-up close buttons trap mobile traffic",
+      "body": "Pop-ups built on desktop often push the close icon off the mobile screen edge. Trapped visitors cannot read your content and will close the tab instantly instead of fighting the overlay.",
+      "kicker": "03"
+    },
+    {
+      "title": "Test your site using only your off-hand thumb",
+      "body": "Open your website while walking and try to fill out your contact form using only your non-dominant thumb. Every point where your thumb struggles is where you are losing real revenue."
+    }
+  ]
+}
