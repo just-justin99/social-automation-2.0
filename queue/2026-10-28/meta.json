@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-28",
+  "type": "education",
+  "format": "deep_dive",
+  "subject": "SEO",
+  "topic": "SEO",
+  "hook_style": "bold_claim",
+  "label": "SEARCH OPTIMIZATION",
+  "caption_ig": "Check the browser tab on your website right now. If it just says 'Home' or your business name, Google is hiding you from local buyers. Fix it today using this formula: [Service] in [City] | [Business Name].\n\n#localseo #smallbusinesswebsite #seoadvice #webdesign #searchengineoptimization",
+  "caption_fb": "Open your website on a computer and hover over the browser tab at the top. Does it say 'Home' or just your company name? That tab text is your website's title tag, and it is the single strongest signal Google uses to understand your local service. If you do not include your main service and your city in that tag, you are handing local search traffic directly to your competitors. Update your settings or ask your web developer to format it correctly this week.",
+  "caption_li": "One of the most frequent technical oversights on local business websites is an unoptimized title tag.\n\nYour title tag is the text displayed in browser tabs and search engine result headers. When search engine crawlers index your website, they prioritize this HTML tag to determine what you offer and where you operate.\n\nIf your homepage tab currently reads 'Home' or simply your company name, search engines must guess your offer. Replacing it with '[Primary Service] in [City] | [Business Name]' provides an immediate, structured signal that helps capture high-intent local search queries.\n\nWhat does your current browser tab display when you open your site?",
+  "slides": [
+    {
+      "title": "Your browser tab name controls your Google ranking.",
+      "body": "Hover over your homepage browser tab. If it says 'Home' or just your business name, Google has to guess what you sell. You are losing search traffic to competitors who named their service.",
+      "kicker": "SEARCH OPTIMIZATION"
+    },
+    {
+      "title": "Body copy alone will not fix search rankings.",
+      "body": "Repeating your city ten times in your paragraph text fails if your title tag is blank. Search engines check HTML title tags before analyzing the rest of your page copy."
+    },
+    {
+      "title": "Missing your location in titles costs real leads.",
+      "body": "When someone searches 'plumber in Austin,' Google looks for those explicit terms in title tags. If yours says 'Welcome,' Google skips your site and displays a competitor with the right tags."
+    },
+    {
+      "title": "Use this simple formula for page titles.",
+      "body": "Set your title tag to: [Primary Service] in [City] | [Business Name]. Example: 'Roof Repair in Denver | Apex Roofing'. This gives search engines an exact signal of what you do and where."
+    },
+    {
+      "title": "Fix your service pages, not just home.",
+      "body": "Every page needs its own title tag. If your contact page just says 'Contact Us,' update it to include your city. Stop letting website templates leave your search tags blank."
+    }
+  ]
+}
