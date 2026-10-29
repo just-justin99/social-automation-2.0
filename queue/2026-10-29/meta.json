@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-29",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Brand strategy",
+  "topic": "Brand strategy",
+  "hook_style": "spot_it",
+  "label": "BRAND POSITIONING",
+  "caption_ig": "If your website headline could sit on your competitor's site without changing a word, you don't have a marketing strategy\u2014you have expensive placeholder text. When you sound like everyone else, prospects compare you on price alone. Fix your headline today: name the specific problem you solve and who you solve it for.\n\n#brandstrategy #copywritingtips #smallbusinessowner #positioning #webdesign #businessgrowth",
+  "caption_fb": "Most small business owners think positioning means having a polished logo or nice colors. But if a prospect visits your website and sees 'quality service' or 'trusted solutions', they still have no idea why you're worth more than the guy down the street. Take two minutes today to read your homepage line by line. Could your biggest competitor paste that same copy onto their site? If the answer is yes, you're leaving money on the table. Make your headline so specific that only your business can back it up.",
+  "caption_li": "Generic positioning is one of the quietest sales killers in B2B.\n\nWhen your website uses safety phrases like 'experienced team' or 'tailored solutions,' it fails to create differentiation. To a prospect evaluating three proposals, identical messaging means identical capability. At that point, price becomes their only decision metric.\n\nTo test your current positioning, try the copy-paste exercise:\n1. Copy your main homepage headline.\n2. Put your top competitor's name in front of it.\n3. Ask if it still sounds believable.\n\nIf it does, your messaging isn't doing its job. Precision builds authority.",
+  "slides": [
+    {
+      "title": "Cover your logo and read your homepage headline.",
+      "body": "If a direct competitor could paste their logo onto your website without changing a single word, you aren't positioning yourself. You are just paying to market your entire industry.",
+      "kicker": "BRAND POSITIONING"
+    },
+    {
+      "title": "Phrases like 'quality service' force price wars.",
+      "body": "'Experienced team' and 'trusted solutions' are expected baselines, not selling points. When your copy looks identical to three other quotes, prospects have no metric left to compare except your price.",
+      "kicker": "01"
+    },
+    {
+      "title": "Listing every service pushes away high-value clients.",
+      "body": "High-paying clients hire specialists, not generalists. If your homepage claims you solve everything for everyone, serious buyers assume you are mediocre at their specific problem and keep looking.",
+      "kicker": "02"
+    },
+    {
+      "title": "Design gaps between site and proposals kill sales.",
+      "body": "If your homepage looks modern but your PDF proposals look outdated, buyers hesitate. That subtle visual friction makes prospects wonder if your internal work is as disorganized as your sales materials.",
+      "kicker": "03"
+    },
+    {
+      "title": "Pass the 'copy-paste test' on your hero section.",
+      "body": "Replace vague promises with the exact outcome you deliver and who it is for. If a competitor can steal your headline without lying, rewrite it until it only applies to you."
+    }
+  ]
+}
