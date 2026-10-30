@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-30",
+  "type": "authority",
+  "format": "deep_dive",
+  "subject": "User behaviour",
+  "topic": "User behaviour",
+  "hook_style": "problem_callout",
+  "label": "USER BEHAVIOR",
+  "caption_ig": "Most visitors will never read your paragraphs. They scan headers, glance at buttons, and leave.\n\nIf your subheadings say generic things like 'Services' or 'Why Choose Us', you give skimmers zero reasons to stay.\n\nRun the Skim Test today: read ONLY your bold headers. Do they sell your service on their own?\n\n#webdesign #conversionrate #smallbusinesswebsite #cro #copywritingtips",
+  "caption_fb": "When was the last time you read every single word on a company website? You probably didn't\u2014and neither do your customers.\n\nMost business owners hide their best sales arguments inside heavy paragraphs. But when people scan, those paragraphs get ignored completely. \n\nTry opening your website right now and reading only the bold subheadings and button text. If those titles do not clearly explain what you do and why you are the best choice, your site is losing qualified leads every day.",
+  "caption_li": "During website audits, I consistently see strong value propositions hidden inside wall-to-wall copy.\n\nUser behavior data shows that online readers scan in rapid patterns. They look at subheadings, bullet points, and call-to-action buttons first. If these anchor points do not deliver clear value statements, the supporting text remains unread.\n\nReplacing generic headers like 'Our Process' with benefit-led statements like 'How We Deliver Results in 14 Days' dramatically improves messaging retention.\n\nDoes your website copy hold up when skimmed, or does it rely on users reading every sentence?",
+  "slides": [
+    {
+      "title": "Skimmers skip your paragraphs and miss your best offer.",
+      "body": "Visitors scan your site in 3-second bursts instead of reading top to bottom. If your core pitch lives inside a long paragraph, almost nobody sees it.",
+      "kicker": "USER BEHAVIOR"
+    },
+    {
+      "title": "Generic subheadings like 'Our Services' waste your best space.",
+      "body": "When skimmers look only at bold text, section titles like 'About Us' or 'Services' tell them nothing. You lose sales because your page headers fail to summarize your value."
+    },
+    {
+      "title": "Dense text blocks look like hard work to buyers.",
+      "body": "Serious buyers will not hunt through long paragraphs to figure out why you are better. If your text looks dense, visitors bounce back to Google to find a simpler answer."
+    },
+    {
+      "title": "The Skim Test: Read only your bold headers.",
+      "body": "Scroll through your homepage reading only subheadings and button text. If someone cannot understand your exact offer, pricing, and benefits in ten seconds, your copy is failing skimmers."
+    },
+    {
+      "title": "Turn boring section titles into complete summary statements.",
+      "body": "Replace 'Our Process' with 'How We Deliver in 14 Days'. Bold the first three words of bullet points. Make your offer clear to anyone who spends five seconds scanning your page."
+    }
+  ]
+}
