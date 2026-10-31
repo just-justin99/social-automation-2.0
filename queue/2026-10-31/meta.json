@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "type": "education",
+  "format": "before_after",
+  "subject": "AEO",
+  "topic": "AEO",
+  "hook_style": "bold_claim",
+  "label": "SEARCH DESIGN",
+  "caption_ig": "AI search engines like ChatGPT and Perplexity don't care about your brand tagline. They want direct facts. If your site doesn't state your prices, timelines, and services clearly, you lose the recommendation to a business that does.\n\nSwipe through to see the exact before-and-after fixes you can make to your homepage today.\n\n#seo #webdesign #smallbusiness #localseo #contentstrategy",
+  "caption_fb": "More buyers are asking AI tools like Google Gemini and ChatGPT for local recommendations instead of scrolling through traditional search links. The tricky part? These AI engines don't read websites the way humans do. They skip past polished marketing slogans and look for plain questions with direct answers. If your website buries your prices or process in long paragraphs, AI engines simply won't cite you. Adding a simple FAQ section to your homepage is one of the easiest ways to fix this without redesigning your whole site.",
+  "caption_li": "AI-driven search is changing how potential buyers discover services. When someone asks an AI tool for a vendor recommendation, the algorithm scans for structured, explicit information.\n\nIf your website relies on generic value statements like 'tailored solutions' or hides core service details inside dense text, AI engines cannot reliably extract your offer. They default to competitors who present plain numbers and direct answers.\n\nUpdating your website with structured Q&A headers and direct pricing ranges makes your company machine-readable. It is a low-effort content adjustment that protects your organic reach.",
+  "slides": [
+    {
+      "title": "Clever website slogans cost you AI search traffic.",
+      "body": "When AI tools summarize local services, they look for facts, not clever slogans. If your homepage says 'We empower brands' instead of 'We fix broken pipes,' AI skips you and quotes your competitor.",
+      "kicker": "SEARCH DESIGN"
+    },
+    {
+      "title": "Swap vague promises for direct numbers and facts.",
+      "body": "Before: 'We offer flexible, tailored pricing options.'\n\nAfter: 'How much does accounting cost? Packages start at $500/month.'\n\nAI assistants pull clear prices into search answers. Vague language gets left out."
+    },
+    {
+      "title": "Turn dense paragraphs into clear Q&A headers.",
+      "body": "Before: A 300-word paragraph explaining your project process.\n\nAfter: FAQ header 'How long does a build take?' followed by 'Most projects take 4 weeks.'\n\nSearch bots easily extract plain answers under clean headers."
+    },
+    {
+      "title": "Test your site: Can AI find your answers?",
+      "body": "Ask ChatGPT or Claude: 'What does [Your Business Name] charge?' If it hallucinates or says 'it varies,' your website lacks clear facts. Add an FAQ section with explicit answers today."
+    }
+  ]
+}
