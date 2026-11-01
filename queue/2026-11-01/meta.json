@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-01",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Web design",
+  "topic": "Web design",
+  "hook_style": "question",
+  "label": "VISUAL LAYOUT CHECK",
+  "caption_ig": "Your website layout sells your business before anyone reads a single word. If spacing is cramped or your headlines don't pop, visitors bounce. Swipe through for 3 quick layout fixes you can make today.\n\n#webdesign #smallbusinesstips #cro #websitetips #conversionrate",
+  "caption_fb": "Ever wondered why visitors hit your homepage and leave without reaching out? Often it isn't your offer\u2014it's visual clutter. When padding is tight and font sizes are too similar, people unconsciously associate your business with cheap operators.\n\nCheck your mobile homepage today. Make sure your headlines are twice as big as your paragraph text and give every section plenty of empty space to breathe. It is a simple fix that instantly raises your perceived value.",
+  "caption_li": "Design structure dictates perceived value long before a prospective client reads your offer.\n\nWhen website sections lack sufficient padding or typography lacks clear scale, visitors perceive the business as unpolished. They will not analyze your CSS margins, but they will leave due to visual fatigue.\n\nAudit your primary landing pages for two things:\n1. Is headline text significantly larger than body copy?\n2. Is there clear vertical spacing between major content sections?\n\nCorrecting these basic layout hierarchy issues is often the fastest way to improve landing page conversion rates.",
+  "slides": [
+    {
+      "title": "3 layout mistakes that make premium services look cheap",
+      "body": "Most business owners focus on photos and copy, but bad spacing quietly kills conversions. If your layout feels cluttered, visitors assume your service is disorganised and leave without inquiring.",
+      "kicker": "VISUAL LAYOUT CHECK"
+    },
+    {
+      "title": "Headlines that look like body copy get ignored",
+      "body": "If your headlines are only slightly bigger than your paragraphs, skim-readers miss your main message entirely. Make headlines at least double the font size of body text so visitors instantly grasp your offer.",
+      "kicker": "01"
+    },
+    {
+      "title": "Crammed text blocks destroy your offer's perceived value",
+      "body": "Text touching section borders signals an amateur template. Adding generous vertical padding above and below content blocks makes your site feel established and justifies higher rates.",
+      "kicker": "02"
+    },
+    {
+      "title": "Mismatched section margins confuse mobile visitors",
+      "body": "When phone screens display small padding on one section and huge gaps on the next, the page feels broken. Consistent mobile margins stop users from bouncing before reaching your booking link.",
+      "kicker": "03"
+    },
+    {
+      "title": "The 5-second mobile scroll test for your homepage",
+      "body": "Scroll your homepage on your phone. If two distinct services touch on one screen without clear breathing room, double the gap between those blocks today to keep readers engaged."
+    }
+  ]
+}
