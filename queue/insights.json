@@ -1,25 +1,31 @@
 {
-  "updated": "2026-10-26",
-  "n_posts": 11,
+  "updated": "2026-11-02",
+  "n_posts": 15,
+  "platforms": {
+    "Instagram": 15,
+    "Facebook": 15,
+    "LinkedIn": 0
+  },
+  "facebook_has_reach": false,
   "learning_active": true,
   "by_type": {
     "education": {
-      "posts": 7,
-      "avg_score": 25.829
+      "posts": 9,
+      "avg_score": 0.533
     },
     "authority": {
-      "posts": 3,
-      "avg_score": 20.267
+      "posts": 4,
+      "avg_score": 0.518
     },
     "selling": {
-      "posts": 1,
-      "avg_score": 180.4
+      "posts": 2,
+      "avg_score": 1.133
     }
   },
   "by_subject": {
     "SEO": {
       "posts": 2,
-      "avg_score": 30.2
+      "avg_score": 0.902
     },
     "Branding": {
       "posts": 1,
@@ -31,7 +37,7 @@
     },
     "Client education": {
       "posts": 2,
-      "avg_score": 0.2
+      "avg_score": 0.134
     },
     "Conversion": {
       "posts": 1,
@@ -39,21 +45,29 @@
     },
     "Things businesses get wrong": {
       "posts": 1,
-      "avg_score": 180.8
+      "avg_score": 2.533
     },
     "Brand strategy": {
+      "posts": 2,
+      "avg_score": 1.133
+    },
+    "Things your website should have": {
       "posts": 1,
       "avg_score": 0.0
     },
-    "Things your website should have": {
+    "UI/UX": {
+      "posts": 1,
+      "avg_score": 0.0
+    },
+    "User behaviour": {
       "posts": 1,
       "avg_score": 0.0
     }
   },
   "by_format": {
     "spot_the_problem": {
-      "posts": 3,
-      "avg_score": 60.267
+      "posts": 5,
+      "avg_score": 0.96
     },
     "before_after": {
       "posts": 1,
@@ -64,8 +78,8 @@
       "avg_score": 0.0
     },
     "deep_dive": {
-      "posts": 2,
-      "avg_score": 30.4
+      "posts": 3,
+      "avg_score": 0.691
     },
     "process": {
       "posts": 1,
@@ -74,7 +88,7 @@
   },
   "by_hook_style": {
     "problem_callout": {
-      "posts": 2,
+      "posts": 3,
       "avg_score": 0.0
     },
     "myth_bust": {
@@ -86,12 +100,12 @@
       "avg_score": 0.0
     },
     "question": {
-      "posts": 3,
-      "avg_score": 20.267
+      "posts": 4,
+      "avg_score": 0.518
     },
     "spot_it": {
-      "posts": 1,
-      "avg_score": 180.8
+      "posts": 2,
+      "avg_score": 2.4
     },
     "hidden_cost": {
       "posts": 1,
@@ -99,15 +113,10 @@
     }
   },
   "repeat": {
-    "subject": [
-      "SEO"
-    ],
-    "format": [
-      "spot_the_problem",
-      "deep_dive"
-    ],
+    "subject": [],
+    "format": [],
     "hook_style": [
-      "question"
+      "spot_it"
     ]
   },
   "retire": {
@@ -115,7 +124,10 @@
     "format": [
       "list"
     ],
-    "hook_style": []
+    "hook_style": [
+      "problem_callout",
+      "question"
+    ]
   },
   "top_hooks": [
     {
@@ -133,35 +145,47 @@
   ],
   "weak_hooks": [
     {
+      "title": "Skimmers skip your paragraphs and miss your best offer.",
+      "attention": 0
+    },
+    {
+      "title": "Buttons under 48 pixels cost you mobile leads",
+      "attention": 0
+    },
+    {
       "title": "3 website mistakes costing you ready-to-buy clients",
-      "attention": 0.0
-    },
-    {
-      "title": "Confusing website menus silently kill potential sales.",
-      "attention": 0.0
-    },
-    {
-      "title": "If your homepage speaks to everyone, premium buyers leave.",
-      "attention": 0.0
+      "attention": 0
     }
   ],
   "best_posts": [
     {
       "date": "2026-10-16",
       "hook": "Cover your logo and read your hero headline.",
-      "score": 180.8,
+      "score": 2.533,
+      "by_platform": {
+        "Instagram": 3.8,
+        "Facebook": 0.0
+      },
+      "profile_visits": 0
+    },
+    {
+      "date": "2026-10-29",
+      "hook": "Cover your logo and read your homepage headline.",
+      "score": 2.267,
+      "by_platform": {
+        "Instagram": 3.4,
+        "Facebook": 0.0
+      },
       "profile_visits": 0
     },
     {
       "date": "2026-10-15",
       "hook": "Putting 10 towns in your footer won't rank you.",
-      "score": 60.4,
-      "profile_visits": 0
-    },
-    {
-      "date": "2026-10-12",
-      "hook": "Is your site dated or broken?",
-      "score": 0.4,
+      "score": 1.805,
+      "by_platform": {
+        "Instagram": 2.708,
+        "Facebook": 0.0
+      },
       "profile_visits": 0
     }
   ],
