@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-02",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Digital marketing",
+  "topic": "Digital marketing",
+  "hook_style": "hidden_cost",
+  "label": "MARKETING ALIGNMENT",
+  "caption_ig": "If someone clicks an ad for a specific offer, don't send them to your generic homepage. They won't hunt through your menu\u2014they'll just hit back.\n\nMatch your page headline to the exact words in your ad. Eliminate the search step.\n\n#webdesign #landingpages #conversionrate #smallbusinessowner #digitalmarketing",
+  "caption_fb": "A lot of business owners ask why their ads or emails get plenty of clicks, but zero phone calls. Most of the time, the issue isn't the ad\u2014it's where the link leads.\n\nIf you run a post about a specific offer and send people to your main homepage or a blank contact form, you're asking them to do the work of finding it. Most people simply hit the back button.\n\nBefore spending another dollar on ads, test your own links. Make sure the first headline on the page matches the exact promise you made in the ad.",
+  "caption_li": "The biggest leak in small business digital marketing isn't creative design\u2014it's destination friction.\n\nWhen a prospect clicks a link regarding a specific service, dropping them onto a general homepage forces them to navigate your site hierarchy to find what caught their eye. Conversion rates drop immediately when a user has to search.\n\nEnsuring strict alignment between campaign copy and your landing page heading is the fastest way to improve conversions without increasing budget.\n\nWhere are your active campaign links sending potential clients today?",
+  "slides": [
+    {
+      "title": "Stop sending paid ad traffic to your homepage.",
+      "body": "Your homepage has ten different options, menu links, and company history. When visitors click a specific ad and land on a generic front door, they leave instead of hunting for what you promised.",
+      "kicker": "MARKETING ALIGNMENT"
+    },
+    {
+      "title": "Ad clicks bounce when the page headline changes topic.",
+      "body": "If your ad promises '24/7 Emergency Plumbing' but your landing page says 'Quality Home Services Since 1998', visitors assume they landed on the wrong page and click back within three seconds.",
+      "kicker": "01"
+    },
+    {
+      "title": "Email links fail when they lead to contact forms.",
+      "body": "Your newsletter pitched a specific $500 service package. Clicking 'Get Started' shouldn't open a blank, generic enquiry form. It must open a page dedicated to booking that exact $500 package.",
+      "kicker": "02"
+    },
+    {
+      "title": "Social visitors leave if forced to search your menu.",
+      "body": "A social post highlights a single fix for back pain. If your bio link drops visitors onto a list of twelve wellness services, you force them to search. Nobody searches a menu to buy.",
+      "kicker": "03"
+    },
+    {
+      "title": "Do a 5-minute headline audit on your live ads.",
+      "body": "Click every live ad, email, and social link you run. Does the destination page heading repeat the exact offer from your link? If not, rewrite the page heading today to match."
+    }
+  ]
+}
