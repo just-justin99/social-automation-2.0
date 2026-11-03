@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-03",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Accessibility",
+  "topic": "Accessibility",
+  "hook_style": "bold_claim",
+  "label": "WEBSITE ACCESS",
+  "caption_ig": "Stop letting sleek design trends hurt your sales. If your website uses light grey body copy or unlabelled photos, mobile visitors are struggling to read your content and Google can't index your services. Run a quick check today.\n\n#webdesign #smallbusinesswebsite #usability #conversionrate #seo",
+  "caption_fb": "A lot of website designers push minimalist trends like light grey body text and clean galleries without image labels. The problem? Outdoor sunlight makes low-contrast text almost invisible on mobile phones. On top of that, unlabelled photos mean search engines can't tell what services you offer. Check your site on your phone today\u2014if the text is hard to read or your images lack descriptions, a few quick fixes can stop potential clients from bouncing.",
+  "caption_li": "Aesthetic design choices often create unintentional usability barriers for small business websites.\n\nTwo common issues hurt both user experience and organic reach:\n\n1. Low-contrast text: Light grey body copy looks sleek on a desktop monitor, but it becomes unreadable on a smartphone outdoors.\n2. Missing image alt text: Raw photo filenames hide your portfolio work from search engines and screen readers alike.\n\nHigh contrast and proper image tagging do not compromise visual quality. They ensure your site is easy to scan, fully indexable, and functional for every qualified buyer.",
+  "slides": [
+    {
+      "title": "Your website might be blocking buyers without you knowing",
+      "body": "Designers love minimalist trends like light grey text and clean, label-free photos. But on mobile screens, these choices make your site hard to read and navigate, forcing ready buyers to leave for a competitor.",
+      "kicker": "WEBSITE ACCESS"
+    },
+    {
+      "title": "Light grey text becomes unreadable on mobile screens",
+      "body": "Before: Light grey text on white for a sleek look.\n\nAfter: Dark charcoal or black text.\n\nWhy: Outdoor light makes low-contrast text invisible on phones. If visitors strain to read your pricing or services, they bounce."
+    },
+    {
+      "title": "Blank image tags hide your work from Google",
+      "body": "Before: Uploading photos named `IMG_0492.jpg` with blank alt text.\n\nAfter: Adding clear tags like `oak-kitchen-cabinets-chicago`.\n\nWhy: Search engines and screen readers can't read images. Descriptive text helps local clients find your specific services."
+    },
+    {
+      "title": "Run this 2-minute accessibility audit today",
+      "body": "1. Open your site on your phone in sunlight.\n2. Check if body copy is pitch-dark against the background.\n3. Verify your main service photos have descriptive tags.\n\nFixing these small errors keeps clients from leaving."
+    }
+  ]
+}
