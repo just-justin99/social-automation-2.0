@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-04",
+  "type": "education",
+  "format": "deep_dive",
+  "subject": "Things your website should have",
+  "topic": "Things your website should have",
+  "hook_style": "spot_it",
+  "label": "WEBSITE TRUST",
+  "caption_ig": "Hiding your email address to avoid spam is costing you real clients. When a contact page only has a form, visitors worry their message will disappear into a black hole. Fix it today: keep your form, but put a direct email, phone number, and expected response time right next to it.\n\n#webdesign #smallbusiness #conversionrate #websiteadvice #leadgeneration",
+  "caption_fb": "Most small business owners hide their email address behind a contact form to stop spam bots. The problem? It stops genuine clients, too. Many buyers refuse to use forms because they want a record in their own sent folder, or they assume no one reads form submissions. You do not need to choose between spam control and trust. Keep your form, but list your direct email, phone number, and a clear response window ('we reply in 4 hours') right beside it. That single tweak removes doubt and brings in buyers who were about to leave.",
+  "caption_li": "If your contact page relies entirely on a contact form, you are likely losing qualified leads to competitors.\n\nWhile removing direct email addresses reduces automated spam, it introduces friction for serious buyers. High-intent prospects want three things before reaching out: proof of life, a paper trail in their own sent items, and a clear expectation of when you will reply.\n\nThe fix is simple:\n1. Keep the contact form for structured data.\n2. Place a direct email and phone number beside it.\n3. Add a clear expectation (e.g., 'Replies within 1 business day').\n\nRemoving friction on your contact page is one of the fastest ways to increase overall conversion rates.",
+  "slides": [
+    {
+      "title": "Is your contact page hiding behind a single form?",
+      "body": "If a visitor cannot see a real email address or phone number, high-intent buyers often leave to find a competitor. A lone form makes your business look unstaffed or unreachable.",
+      "kicker": "WEBSITE TRUST"
+    },
+    {
+      "title": "You hid your email to stop inbox spam.",
+      "body": "It works against spam bots, but it also blocks paying clients. Serious buyers want a direct paper trail in their own sent folder, not an anonymous web form."
+    },
+    {
+      "title": "Contact forms feel like sending emails into space.",
+      "body": "Without a visible email, phone number, or stated response timeframe, buyers assume your form goes to an unmonitored inbox. That hesitation kills high-ticket enquiries before they start."
+    },
+    {
+      "title": "Put direct contact details right beside the form.",
+      "body": "Keep the form for structured enquiries, but add a real email, phone number, and a clear promise (like 'We reply within 4 business hours') right next to it."
+    },
+    {
+      "title": "Choice builds trust; hidden details drive clients away.",
+      "body": "Giving prospects multiple ways to reach you proves your business is active. When reaching out feels safe and predictable, your contact page conversion rate goes up."
+    }
+  ]
+}
