@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-05",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Conversion",
+  "topic": "Conversion",
+  "hook_style": "hidden_cost",
+  "label": "WEBSITE CONVERSION",
+  "caption_ig": "When a visitor decides to reach out, minor friction changes their mind. Trimming unnecessary fields from your form or rewriting a vague button label clears the path for enquiries. Keep the process simple.\n\n#webdesign #conversiontips #smallbiz #websiteaudit #ux",
+  "caption_fb": "When potential clients leave your website without reaching out, it is rarely because they dislike your work. More often, it is because contacting you felt slightly harder than it needed to be.\n\nRequiring extra fields or using unclear button text adds hesitation. When you remove those friction points, you make it easy for ready buyers to take action.\n\nTake five minutes today to test your own enquiry form on your phone.",
+  "caption_li": "Most website visitors do not drop off because your offer is weak. They leave because taking the next step requires too much effort.\n\nI regularly see friction hiding in plain sight: contact forms asking for details that can wait for a later call, and buttons labeled Submit that leave users guessing.\n\nReducing the effort required to get in touch improves conversion without changing your core service. When was the last time you tested your contact process on mobile?",
+  "slides": [
+    {
+      "title": "Hidden friction on your contact page kills enquiries",
+      "body": "When visitors hit slow pages, broken links, or confusing forms, they do not email you to complain. They close the tab and hire your competitor instead.",
+      "kicker": "WEBSITE CONVERSION"
+    },
+    {
+      "title": "Long contact forms stop ready buyers",
+      "body": "Every extra form field increases effort. If someone just wants a quick quote, demanding their street address or budget upfront makes them quit.",
+      "kicker": "01"
+    },
+    {
+      "title": "Generic button text creates hesitation",
+      "body": "Buttons that say Submit or Click Here offer no clear outcome. When visitors do not know exactly what happens next, they abandon the page.",
+      "kicker": "02"
+    },
+    {
+      "title": "Hiding reviews on separate pages hurts trust",
+      "body": "Visitors rarely hunt for hidden testimonial pages while evaluating your work. If proof is not right next to your service, buyers assume unbacked claims.",
+      "kicker": "03"
+    },
+    {
+      "title": "Test your enquiry form on mobile today",
+      "body": "Fill out your main form using one thumb. Remove every field you do not need for an initial reply, and change vague button text."
+    }
+  ]
+}
