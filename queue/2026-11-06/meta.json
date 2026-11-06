@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-06",
+  "type": "authority",
+  "format": "process",
+  "subject": "Branding",
+  "topic": "Branding",
+  "hook_style": "bold_claim",
+  "label": "BRAND IDENTITY",
+  "caption_ig": "A fancy logo won't save a broken customer experience. If your website, proposals, and checkout tools look like three different companies built them, buyers notice. Fix your visual touchpoints before raising your prices.\n\n#smallbusiness #webdesign #brandidentity #conversiontips #clientexperience",
+  "caption_fb": "When I review a business site, the logo is the last thing I look at. Instead, I check what happens when a client tries to pay. If they leave your custom homepage and land on a raw, unbranded booking tool, trust drops immediately. Small details like mismatched fonts on proposals or default payment pages make people hesitate. Making every customer touchpoint look intentional is how you justify higher prices.",
+  "caption_li": "Branding is often mistaken for logo design. In reality, your brand identity lives in the consistency of your entire buyer journey.\n\nWhen a prospective client moves from a polished website to an unbranded invoice or a generic scheduling link, the sudden visual shift creates unnecessary friction. That friction leads to delayed decisions and abandoned checkouts.\n\nAudit your secondary touchpoints today: do your proposals, payment portals, and onboarding forms reflect the same quality as your homepage?",
+  "slides": [
+    {
+      "title": "Your logo isn't what sells your service.",
+      "body": "Buyers judge your credibility before reading a word. A great logo on an inconsistent, messy website just looks like a cheap attempt to disguise poor service.",
+      "kicker": "BRAND IDENTITY"
+    },
+    {
+      "title": "Generic templates ruin premium pricing.",
+      "body": "Charging high-end rates while using stock templates and mismatched fonts signals a lack of polish. When visuals don't match your price tag, buyers negotiate down or leave."
+    },
+    {
+      "title": "Default booking pages kill checkouts.",
+      "body": "Sending clients from a custom homepage to an unbranded Acuity or Stripe link creates sudden doubt. If the checkout looks different, buyers hesitate right at the moment of payment."
+    },
+    {
+      "title": "The logo-swap test reveals true branding.",
+      "body": "Swap your logo with a competitor's. If the site still makes sense, your design isn't unique. When you look like everyone else, clients choose based solely on who is cheaper."
+    },
+    {
+      "title": "Fix visual drop-off to close more deals.",
+      "body": "Align your proposal PDFs, booking tools, and site design to use identical fonts, colors, and layouts. Consistency reassures buyers that you are professional, organized, and worth the cost."
+    }
+  ]
+}
