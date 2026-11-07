@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-07",
+  "type": "education",
+  "format": "deep_dive",
+  "subject": "Typography",
+  "topic": "Typography",
+  "hook_style": "spot_it",
+  "label": "WEBSITE TYPOGRAPHY",
+  "caption_ig": "If reading your site feels like hard work, mobile visitors won't stay. Ultra-thin fonts and light grey text look great in a desktop mockup, but in daylight on a phone, they become unreadable.\n\nOpen your site on your phone right now. Can you comfortably read it at arm's length?\n\n#webdesign #smallbusinesswebsite #userexperience #conversionrate #typography",
+  "caption_fb": "One of the most common issues on small business websites is typography choice. Many owners pick light or thin font styles expecting a clean, modern feel. While that can look sharp on a large desktop monitor, it usually breaks down on a smartphone.\n\nWhen text is thin or low-contrast, it forces visitors to strain their eyes. The moment reading feels like physical effort, potential clients simply leave. Stick to regular font weights, a 16px minimum font size, and high-contrast dark charcoal text so your core message is effortless to absorb.",
+  "caption_li": "Unreadable typography is a quiet conversion killer for mobile websites.\n\nIt is common for business owners to approve ultra-light font weights in design mockups because they look minimal on a high-resolution screen.\n\nHowever, mobile users browsing on the move struggle with thin, low-contrast text. If reading your value proposition requires effort, user drop-off increases.\n\nThree simple technical adjustments fix this:\n1. Increase paragraph body text to 16px minimum.\n2. Use regular font weight (400) instead of light (300).\n3. Set body text to high-contrast dark charcoal.\n\nGood design makes reading effortless. When did you last audit your site's readability on a mobile device?",
+  "slides": [
+    {
+      "title": "Hold your phone at arm\u2019s length right now.",
+      "body": "Open your website homepage on your phone. If your body text becomes a grey blur at arm's length, mobile visitors aren't reading your offer\u2014they are leaving.",
+      "kicker": "WEBSITE TYPOGRAPHY"
+    },
+    {
+      "title": "Ultra-thin fonts look modern on desktop, invisible on mobile.",
+      "body": "Light font weights look sleek on a designer's big monitor. But outside in daylight, thin, pale grey lettering disappears entirely on a smartphone screen."
+    },
+    {
+      "title": "16px is the absolute minimum for mobile text.",
+      "body": "Anything smaller forces users to pinch, zoom, or strain. If a prospect has to work to read your services or pricing, they close the tab."
+    },
+    {
+      "title": "Swap light grey for dark charcoal (#222222).",
+      "body": "Pure black text can feel harsh, but light grey causes eye strain. High-contrast dark charcoal keeps text sharp, solid, and easy to scan on small screens."
+    },
+    {
+      "title": "Give your web developer these 3 quick fixes:",
+      "body": "1. Set paragraph text to 16px minimum.\n2. Upgrade font weight to Regular (400).\n3. Use high-contrast dark charcoal on light backgrounds.\nThen re-test on your phone."
+    }
+  ]
+}
