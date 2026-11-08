@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-08",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Website mistakes",
+  "topic": "Website mistakes",
+  "hook_style": "hidden_cost",
+  "label": "FORM USABILITY",
+  "caption_ig": "Inside-box placeholders look sleek, but they create immediate friction on mobile screens. The moment auto-fill runs or someone starts typing, the field label vanishes. If they make a mistake, they're forced to clear the box just to re-read the prompt.\n\nMoving your labels permanently above each input box is a 5-minute fix that stops form drop-offs.\n\n#webdesign #cro #smallbusiness #conversionrate #userexperience",
+  "caption_fb": "If your contact form uses placeholder text inside the input boxes, test it on your phone right now. When you tap a field or use browser auto-fill, that placeholder text disappears. If a user gets distracted or makes a typo, they can no longer see what information belonged in that box without deleting everything they just typed. Keeping field labels permanently visible above the box solves this issue and prevents lost enquiries.",
+  "caption_li": "Form design choice that quietly reduces lead conversions: using placeholder text inside input boxes instead of permanent labels above them.\n\nWhen field names live inside the input area, browser auto-fill instantly covers them. If a validation error occurs, the user has no visual reference to identify which field caused the issue.\n\nIf they get interrupted mid-form, they are forced to clear their input just to re-read the original field prompt.\n\nEnsuring field labels remain permanently visible outside input boxes removes unnecessary friction from your mobile lead flow.\n\nHave you tested how your contact form handles auto-fill on mobile devices?",
+  "slides": [
+    {
+      "title": "Your mobile form might be hiding its own labels.",
+      "body": "If your contact form puts field names inside input boxes instead of above them, visitors lose context the second they tap the box or use mobile auto-fill.",
+      "kicker": "FORM USABILITY"
+    },
+    {
+      "title": "Auto-fill hides what field is actually being filled.",
+      "body": "When Safari or Chrome auto-fills details, internal placeholders vanish instantly. If a field triggers a validation error, users cannot tell which box failed without wiping their entries clean."
+    },
+    {
+      "title": "Interrupted users are forced to delete their own typing.",
+      "body": "If a user gets interrupted while filling out your form, returning means guessing what the box asked for. To double-check, they have to delete what they typed just to read the prompt."
+    },
+    {
+      "title": "Fix this by keeping field labels permanently visible.",
+      "body": "Test your website on a phone right now. Make sure field labels sit permanently above each box. It stops visitors from giving up on your contact form over simple typing confusion."
+    }
+  ]
+}
