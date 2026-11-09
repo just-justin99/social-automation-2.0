@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-02",
-  "n_posts": 15,
+  "updated": "2026-11-09",
+  "n_posts": 17,
   "platforms": {
-    "Instagram": 15,
-    "Facebook": 15,
+    "Instagram": 17,
+    "Facebook": 17,
     "LinkedIn": 0
   },
   "facebook_has_reach": false,
   "learning_active": true,
   "by_type": {
     "education": {
-      "posts": 9,
-      "avg_score": 0.533
+      "posts": 11,
+      "avg_score": 0.436
     },
     "authority": {
       "posts": 4,
@@ -52,7 +52,7 @@
       "avg_score": 1.133
     },
     "Things your website should have": {
-      "posts": 1,
+      "posts": 2,
       "avg_score": 0.0
     },
     "UI/UX": {
@@ -62,12 +62,16 @@
     "User behaviour": {
       "posts": 1,
       "avg_score": 0.0
+    },
+    "Digital marketing": {
+      "posts": 1,
+      "avg_score": 0.0
     }
   },
   "by_format": {
     "spot_the_problem": {
-      "posts": 5,
-      "avg_score": 0.96
+      "posts": 6,
+      "avg_score": 0.8
     },
     "before_after": {
       "posts": 1,
@@ -78,8 +82,8 @@
       "avg_score": 0.0
     },
     "deep_dive": {
-      "posts": 3,
-      "avg_score": 0.691
+      "posts": 4,
+      "avg_score": 0.518
     },
     "process": {
       "posts": 1,
@@ -104,11 +108,11 @@
       "avg_score": 0.518
     },
     "spot_it": {
-      "posts": 2,
-      "avg_score": 2.4
+      "posts": 3,
+      "avg_score": 1.6
     },
     "hidden_cost": {
-      "posts": 1,
+      "posts": 2,
       "avg_score": 0.0
     }
   },
@@ -122,7 +126,8 @@
   "retire": {
     "subject": [],
     "format": [
-      "list"
+      "list",
+      "deep_dive"
     ],
     "hook_style": [
       "problem_callout",
@@ -145,15 +150,15 @@
   ],
   "weak_hooks": [
     {
+      "title": "Is your contact page hiding behind a single form?",
+      "attention": 0
+    },
+    {
+      "title": "Stop sending paid ad traffic to your homepage.",
+      "attention": 0
+    },
+    {
       "title": "Skimmers skip your paragraphs and miss your best offer.",
-      "attention": 0
-    },
-    {
-      "title": "Buttons under 48 pixels cost you mobile leads",
-      "attention": 0
-    },
-    {
-      "title": "3 website mistakes costing you ready-to-buy clients",
       "attention": 0
     }
   ],
