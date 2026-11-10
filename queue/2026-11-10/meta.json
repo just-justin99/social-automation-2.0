@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-10",
+  "type": "authority",
+  "format": "process",
+  "subject": "Digital marketing",
+  "topic": "Digital marketing",
+  "hook_style": "bold_claim",
+  "label": "TRAFFIC ALIGNMENT",
+  "caption_ig": "If your ads and emails aren't converting, stop tweaking the copy. Check where the link actually lands. Sending paid traffic to a generic homepage forces buyers to do extra work\u2014and most won't. Align your pages with your traffic sources to stop losing qualified leads.\n\n#websiteconversion #smallbusinessmarketing #webdesign #cro #digitalmarketingtips",
+  "caption_fb": "Most small business owners assume their ads or email campaigns are failing when conversions are low. In reality, the issue is usually the destination page.\n\nWhen a potential client clicks an ad for a specific service, landing on your standard homepage creates instant friction. They have to search your menu for the very offer that brought them there. Most people simply hit the back button.\n\nWhen you build dedicated landing pages that match the exact offer from your ads or emails, you turn existing traffic into actual sales without increasing your marketing budget.",
+  "caption_li": "The cost of acquiring digital traffic continues to rise, yet many business websites waste that investment after the click occurs.\n\nSending ad traffic, search visitors, and email subscribers to the same generic homepage creates friction. Each visitor arrives with a completely different level of intent and context:\n\n- Ad clicks expect the exact offer promised in the copy.\n- Search visitors want an immediate solution to a specific problem.\n- Email clicks require a single clear next step to act on.\n\nWhen you align destination pages directly with traffic sources, conversion rates increase without needing additional ad budget.\n\nHow recently have you audited where your campaign links land?",
+  "slides": [
+    {
+      "title": "Your marketing works. Your landing page breaks the promise.",
+      "body": "If someone clicks an ad for a specific offer and lands on your general homepage, they will not hunt through your navigation menu. They close the tab and move to your competitor.",
+      "kicker": "TRAFFIC ALIGNMENT"
+    },
+    {
+      "title": "Sending paid ad clicks to your homepage wastes money.",
+      "body": "Ad clicks carry high intent and cost real money. Dumping that traffic onto a generic page forces visitors to search for what was promised. If it takes more than 3 seconds, that ad spend is lost."
+    },
+    {
+      "title": "Google searchers want fast answers, not company history.",
+      "body": "Someone searching for a specific service has an active problem. If your page opens with your founding story instead of clear services and pricing, they immediately bounce back to Google results."
+    },
+    {
+      "title": "Newsletter clicks fail when options confuse the buyer.",
+      "body": "Email subscribers clicking your links are warm leads. Sending them to a page crowded with main navigation links causes hesitation. Give them one single button that fulfills the email's exact promise."
+    },
+    {
+      "title": "Build dedicated entry pages for every traffic source.",
+      "body": "Stop using one homepage for all traffic. Match destination pages directly to the explicit promise of your ads, search keywords, and emails. You increase conversions without spending an extra dollar on ads."
+    }
+  ]
+}
