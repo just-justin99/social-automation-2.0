@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-11",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Conversion",
+  "topic": "Conversion",
+  "hook_style": "myth_bust",
+  "label": "WEBSITE CONVERSION",
+  "caption_ig": "If your homepage gives visitors three different ways to contact you, you are making them work too hard. Pick the single easiest way for a client to buy from you, make that your primary button, and put the rest in plain text.\n\n#conversionrate #smallbusinesswebsite #cro #websiteoptimization #leadgeneration",
+  "caption_fb": "Most small business owners add 'Call', 'Email', and 'Fill out our form' to their homepage hero section thinking it gives visitors convenient options.\n\nIn reality, when someone sees three buttons of equal size and color, they pause to compare which method takes less effort. That hesitation is where you lose enquiries.\n\nChoose the single action you want 80% of visitors to take\u2014like requesting a quote\u2014and make that your only bright button. Leave alternative contact info as simple plain text underneath.",
+  "caption_li": "Choice overload on service-based websites quietly destroys conversion rates.\n\nWhen a prospect lands on your site ready to get in touch, competing calls to action force them to evaluate friction. Should they call, book a meeting, download a pricing guide, or send a message?\n\nWhen everything is visually prioritized, nothing gets clicked. Guide your visitors down one clear path per page. Keep secondary contact options low-contrast so they do not distract from your core conversion goal.\n\nHow many competing buttons currently sit in your website's header?",
+  "slides": [
+    {
+      "title": "Multiple contact buttons are killing your lead form submissions.",
+      "body": "When your homepage has 'Call Us', 'Email', and 'Book Consultation' with equal visual weight, visitors pause to compare contact methods instead of taking action. Most end up closing the tab.",
+      "kicker": "WEBSITE CONVERSION"
+    },
+    {
+      "title": "Replace three header buttons with one main goal.",
+      "body": "Before: Three identical buttons ('Call', 'Email', 'Form').\n\nAfter: One bold button ('Get Free Quote') with phone number as plain text below.\n\nResult: Eliminates decision lag for high-intent visitors."
+    },
+    {
+      "title": "'Submit' buttons make visitors doubt what happens next.",
+      "body": "Before: 'Submit' or 'Click Here'.\n\nAfter: 'Get My 15-Minute Audit' or 'Request Pricing'.\n\nWhy: Specific action verbs state the exact outcome, removing anxiety about sending contact details into a black hole."
+    },
+    {
+      "title": "Audit your homepage today for competing calls to action.",
+      "body": "Look at your homepage right now. If your header, hero section, and pop-up all ask for different actions (Download PDF, Call, Subscribe), pick the single action that generates revenue and demote the rest."
+    }
+  ]
+}
