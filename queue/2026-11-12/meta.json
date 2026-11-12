@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-12",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Brand strategy",
+  "topic": "Brand strategy",
+  "hook_style": "spot_it",
+  "label": "BRAND POSITIONING",
+  "caption_ig": "Is your homepage headline working for your competitors too? Swap your logo with theirs mentally right now. If your headline still fits them, you\u2019re losing leads to price wars. Fix your headline with this formula: [Service] + [Target Client] + [Measurable Benefit]. Save this post to rewrite your homepage today.\n#smallbusiness #copywriting #webdesign #positioning #marketingtips",
+  "caption_fb": "Here is a quick audit for your business website: read your main headline and ask if your biggest competitor could put that exact sentence on their site. If the answer is yes, you are forcing potential clients to choose based on price instead of value. Phrases like 'quality service' or 'reliable team' sound safe, but they fail to tell buyers why you are the right choice. Try narrowing your statement to name the exact client you serve and the specific problem you fix. That single change helps the right buyers identify you immediately.",
+  "caption_li": "When a business website uses generic messaging, potential buyers fall back on a simple metric: price.\n\nPhrases like 'trusted service,' 'experienced team,' or 'innovative solutions' exist on hundreds of competitor websites. Because every provider sounds identical, prospective clients cannot evaluate capability, so they compare quotes instead.\n\nTo attract higher-value clients, specificity is essential.\n\nA clear headline outlines three things:\n1. What you do\n2. Who you do it for\n3. The specific outcome you deliver\n\nIf your headline requires a second read to understand what your business actually does, you are losing qualified pipeline.",
+  "slides": [
+    {
+      "title": "The competitor logo test for your homepage",
+      "body": "Put your main competitor\u2019s logo on your homepage headline. If the text still makes sense, you haven\u2019t given visitors a real reason to pick you. Your headline is currently working for them too.",
+      "kicker": "BRAND POSITIONING"
+    },
+    {
+      "title": "Safe words force buyers to shop on price",
+      "body": "Claims like 'quality service' or 'trusted expertise' appear on almost every website. When every competitor sounds identical, buyers ignore the copy completely and choose whoever is cheapest.",
+      "kicker": "01"
+    },
+    {
+      "title": "Broad offers drive away your highest-paying clients",
+      "body": "High-budget buyers rarely hire generalists. If your site says 'We help businesses grow,' premium clients leave. They look for specialists who explicitly state their exact industry or problem.",
+      "kicker": "02"
+    },
+    {
+      "title": "Clever headlines lose sales to simple ones",
+      "body": "Vague slogans like 'Unlocking your full potential' confuse visitors. If a customer cannot explain what you sell within three seconds, they close the tab and call someone clearer.",
+      "kicker": "03"
+    },
+    {
+      "title": "Use this 3-part formula to fix it",
+      "body": "Combine: [Service] + [Target Client] + [Measurable Benefit]. Instead of 'Expert IT Support,' try 'Managed IT support for law firms that eliminates billable downtime.' Specificity builds trust fast."
+    }
+  ]
+}
