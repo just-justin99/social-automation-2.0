@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-13",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Branding",
+  "topic": "Branding",
+  "hook_style": "question",
+  "label": "BRAND TRUST",
+  "caption_ig": "Buyers don't judge your expertise first\u2014they judge your presentation. If your proposals, website, and social pages look inconsistent, prospective clients hesitate to pay premium rates. Clean up your visual touchpoints to protect your pricing power.\n\n#smallbusiness #webdesign #brandstrategy #businessgrowth #pricingstrategy",
+  "caption_fb": "Most business owners assume branding is just having a nice logo. But the real problem happens when your visual touchpoints don't match. If your website looks sleek, but your PDF proposal looks like it was typed in Microsoft Word, clients pick up on that gap. They start wondering if your operations are as inconsistent as your paperwork. Taking an hour to align your document headers, site fonts, and colors is one of the easiest ways to protect your pricing.",
+  "caption_li": "Clients rarely tell you that your branding looks disjointed. They simply choose a competitor who looks more established.\n\nWhen a sales proposal, website, and invoice look like they belong to three separate companies, it creates subtle friction. Prospects infer that operational quality matches visual presentation.\n\nAuditing your client touchpoints isn't about design perfectionism\u2014it is about risk reduction for the buyer. Aligning your core collateral ensures your visual presentation matches the actual quality of your work.\n\nWhen was the last time you reviewed your sales PDF templates alongside your website?",
+  "slides": [
+    {
+      "title": "Does your visual branding make you look cheap?",
+      "body": "Buyers judge your pricing before reading your copy. If your visual presentation feels amateur, prospects assume your service is too\u2014and instantly expect a discount.",
+      "kicker": "BRAND TRUST"
+    },
+    {
+      "title": "Your website and proposals look like different companies.",
+      "body": "If your proposal PDF uses standard Arial, your website uses trendy fonts, and your IG uses generic graphics, buyers worry your back-end operations are just as disorganized.",
+      "kicker": "01"
+    },
+    {
+      "title": "Free Canva templates make you look like a commodity.",
+      "body": "When prospects spot the same stock graphic on your site that a budget competitor uses, you lose pricing power. They stop comparing your expertise and start price-shopping.",
+      "kicker": "02"
+    },
+    {
+      "title": "Small visual flaws ruin high-ticket deals.",
+      "body": "A blurry logo, outdated copyright year, or misaligned mobile menu tells serious clients you neglect details. Sloppy presentation makes prospective buyers doubt your actual delivery.",
+      "kicker": "03"
+    },
+    {
+      "title": "Compare your site header and PDF invoice side-by-side.",
+      "body": "Open your website next to your latest quote and invoice header. If the fonts, colors, or logo styles differ, pick one standard look today and align every client-facing file."
+    }
+  ]
+}
