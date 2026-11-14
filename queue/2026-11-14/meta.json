@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Client education",
+  "topic": "Client education",
+  "hook_style": "myth_bust",
+  "label": "CLIENT EDUCATION",
+  "caption_ig": "Stop starting website redesigns with a list of features. When you tell a designer what to build instead of what problem to solve, you get a site that looks fine but stays quiet.\n\nBring your actual sales bottlenecks to the table and let design fix the friction in your buying process.\n\n#webdesign #smallbusiness #conversionrate #websiteadvice #businessstrategy",
+  "caption_fb": "Most business owners approach a website redesign by making a list of pages and widgets they want. The problem is that developers will build exactly what you ask for, even if it fails to bring in new customers.\n\nNext time you update your site, skip the feature wishlist. Tell your designer the top three objections prospective buyers bring up on sales calls. When your site addresses those doubts directly, it becomes a tool that generates qualified calls instead of just taking up space online.",
+  "caption_li": "A common mistake in web redesign projects is scoping by feature sets rather than business objectives.\n\nWhen a client requests a five-page site with specific interactive widgets, they receive a completed deliverable that often fails to move key conversion metrics.\n\nInstead, present your designer with your primary sales friction. If prospects hesitate on price or struggle to understand your service model, structure the page layout specifically to address those obstacles.\n\nDesigning around buyer hesitation consistently yields better commercial results than building from a software wishlist.",
+  "slides": [
+    {
+      "title": "Ordering website features first wastes your budget.",
+      "body": "Handing a developer a list of pages and widgets gives you a site that looks complete but fails to generate leads. You end up paying for what you asked for, not what brings in revenue.",
+      "kicker": "CLIENT EDUCATION"
+    },
+    {
+      "title": "Swap your feature wishlist for a revenue target.",
+      "body": "Wrong scope: \"We need five pages and an image slider.\"\nRight scope: \"We need local contractors to book consults.\"\nLayouts built around buyer decisions convert far better than generic feature lists."
+    },
+    {
+      "title": "Your 'About Us' copy isn't closing sales.",
+      "body": "Wrong copy: \"Celebrating 20 years of family-owned service.\"\nRight copy: Answer the top 3 doubts holding buyers back.\nVisitors bounce when you focus on your history instead of removing their buying friction."
+    },
+    {
+      "title": "Give your designer sales obstacles, not software specs.",
+      "body": "Tell your web agency why prospective clients hesitate on calls. A qualified designer can structure your pages to dismantle those exact objections before the client ever speaks to you."
+    }
+  ]
+}
