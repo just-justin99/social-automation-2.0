@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-15",
+  "type": "authority",
+  "format": "process",
+  "subject": "Colour psychology",
+  "topic": "Colour psychology",
+  "hook_style": "spot_it",
+  "label": "WEBSITE COLOUR TRUST",
+  "caption_ig": "Stop overthinking colour psychology. Red won't magically make people buy, and yellow won't force them to feel happy. What actually drives clicks is pure contrast.\n\nIf your website uses bright accents on every icon, header, and section background, your main button gets lost in the noise.\n\nKeep your site neutral and save your boldest colour exclusively for your call to action.\n\n#webdesign #smallbusinesswebsite #conversionrate #cro #uxdesign",
+  "caption_fb": "When reviewing small business websites, one of the most common issues I see is colour overkill. Owners often pick four or five bright brand colours to make the site feel energetic. \n\nIn practice, when your background, headings, badges, and icons all compete for attention, your main contact or buy button becomes invisible. \n\nEffective web design doesn't rely on hidden psychological tricks. It relies on contrast. Keep your page backgrounds clean and neutral, and reserve your sharpest accent colour for the one action you want visitors to take.",
+  "caption_li": "There is a persistent myth in digital marketing that specific colours trigger automatic purchasing decisions. \n\nIn reality, conversion rates depend heavily on visual hierarchy and contrast rather than color-coded emotions.\n\nWhen auditing client websites, we frequently find brand accent colours applied indiscriminately to body text, icons, section dividers, and buttons. When every element calls for visual attention, nothing stands out.\n\nA disciplined colour strategy is straightforward: maintain a neutral interface and restrict your highest-contrast shade strictly to conversion points.\n\nHow many distinct accent colours are currently active on your homepage?",
+  "slides": [
+    {
+      "title": "Count the colours visible before you scroll down.",
+      "body": "If your homepage shows more than three distinct colours above the fold, your main button is competing for attention. Visual clutter directly lowers the percentage of visitors who take action.",
+      "kicker": "WEBSITE COLOUR TRUST"
+    },
+    {
+      "title": "Contrast drives clicks, not secret colour psychology.",
+      "body": "A red button does not force sales through subconscious emotion. It works only when it contrasts sharply with the background. If your page is already colorful, that button becomes invisible."
+    },
+    {
+      "title": "Decorating every section with accent colours hides buttons.",
+      "body": "When headlines, icons, borders, and banners all use your main brand shade, visitors experience visual fatigue. If every element calls for attention, buyers stop noticing your main call to action."
+    },
+    {
+      "title": "Mismatched colour palettes signal cheapness before text reads.",
+      "body": "Colour creates immediate expectation. If a high-ticket service provider uses harsh primary or neon shades, prospective clients subconsciously assume lower service quality before reading a single word."
+    },
+    {
+      "title": "Lock your action button to one unique color.",
+      "body": "Keep your background and main text simple. Save your highest-contrast colour strictly for the single button you want prospects to click. If a colour means 'click here', never use it anywhere else."
+    }
+  ]
+}
