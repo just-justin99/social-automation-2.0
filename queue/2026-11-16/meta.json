@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-16",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Typography",
+  "topic": "Typography",
+  "hook_style": "hidden_cost",
+  "label": "WEBSITE TYPOGRAPHY",
+  "caption_ig": "If a potential client has to zoom in on their phone to read your pricing, they won't buy\u2014they'll just hit back. Most website templates use default font sizes that are way too small for mobile screens.\n\nHere are quick typography fixes to make your site instantly easier to read.\n\n#websitedesign #smallbusinesswebsite #uxdesign #typography #webdesign #cro",
+  "caption_fb": "Have you ever tried reading your own website outside on your phone? Most template themes default to 14px or 16px text in light grey. On a desktop computer, that might look sleek. But on a mobile phone screen in daylight, it becomes almost impossible to read.\n\nWhen reading your site takes physical effort, prospective clients don't stick around to figure it out\u2014they just leave. Take two minutes today to check your homepage on your phone. Bumping body copy to 18px and darkening grey text to charcoal is one of the easiest ways to keep buyers on your page longer.",
+  "caption_li": "Typography choice directly impacts mobile conversion rates. When auditing small business websites, I regularly find three typography issues causing friction for prospective buyers:\n\n1. Body text set under 18 pixels.\n2. Decorative script fonts used for important service headers.\n3. Low-contrast grey copy that disappears on mobile screens outdoors.\n\nWhen a site requires effort to scan, users bounce before reading the value proposition. Increasing your body text size and switching to high-contrast charcoal copy is a low-effort change that yields immediate clarity.\n\nWhen was the last time you reviewed your site's mobile typography?",
+  "slides": [
+    {
+      "title": "Bad font choices make buyers leave your site instantly.",
+      "body": "If a phone screen forces a client to zoom in to read your pricing or services, they won't stick around. Clear typography keeps visitors reading long enough to book.",
+      "kicker": "WEBSITE TYPOGRAPHY"
+    },
+    {
+      "title": "Text under 18 pixels is unreadable on mobile phones.",
+      "body": "Most web templates default to 14px or 16px body text. On a phone, that looks tiny. If reading takes effort, visitors skip your service descriptions entirely.",
+      "kicker": "01"
+    },
+    {
+      "title": "Cursive and script fonts hide your main offer.",
+      "body": "Decorative fonts look pretty in logos, but use them for subheadings or services and mobile readers can't scan your page. If they can't read your headline in two seconds, they leave.",
+      "kicker": "02"
+    },
+    {
+      "title": "Light grey text vanishes in direct sunlight.",
+      "body": "Low-contrast grey text looks modern on a designer's monitor, but outdoors on a phone, it vanishes. If clients can't read your details without straining, they won't buy.",
+      "kicker": "03"
+    },
+    {
+      "title": "Audit your homepage on a phone outside today.",
+      "body": "Set your body text to 18px minimum and switch muted grey copy to dark charcoal. If you can read your offer clearly outside, your visitors can too."
+    }
+  ]
+}
