@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-17",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Business positioning",
+  "topic": "Business positioning",
+  "hook_style": "bold_claim",
+  "label": "BRAND POSITIONING",
+  "caption_ig": "If your website uses vague corporate speak, clients will compare you purely on price. Give them a specific reason to choose you.\n\n#smallbiz #websitedesign #branding #businessowner #brandstrategy",
+  "caption_fb": "When your website uses generic phrasing like professional services for growing businesses, readers have no reason to choose you over a cheaper competitor. They cannot see what makes you different. Instead, name your exact target audience, the specific problem you solve, and why you are the right choice. When your positioning is clear, price stops being the only factor buyers look at.",
+  "caption_li": "If your website sounds like every other business in your industry, visitors will default to comparing you on price alone.\n\nWhen you do not spell out who you help and what makes you different, the market treats you like a commodity.\n\nGeneric language feels safe, but it actually hides your real value. Specificity builds immediate trust because the reader feels understood.\n\nTake a look at your homepage headline today. Can a stranger tell exactly what you do within three seconds?\n\nWhat is one way you could make your core offer more specific this week?",
+  "slides": [
+    {
+      "title": "Vague website copy forces buyers to shop on price.",
+      "body": "When visitors cannot spot your exact value within seconds, they assume you are identical to competitors and pick the cheapest option.",
+      "kicker": "BRAND POSITIONING"
+    },
+    {
+      "title": "Before: We offer reliable plumbing services for local homes.",
+      "body": "After: We fix emergency residential leaks in under two hours. Specific details prove competence and instantly stop price comparisons."
+    },
+    {
+      "title": "Before: Professional design solutions for growing brands.",
+      "body": "After: Brand identity design for boutique hotels launching soon. Naming the exact audience makes your value obvious immediately."
+    },
+    {
+      "title": "Clarity beats cleverness every single time on your site.",
+      "body": "If a potential client has to guess what you do and who you do it for, they will leave and hire someone clearer."
+    }
+  ]
+}
