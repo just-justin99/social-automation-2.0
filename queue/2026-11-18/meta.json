@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-18",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Website mistakes",
+  "topic": "Website mistakes",
+  "hook_style": "spot_it",
+  "label": "WEBSITE CHECK",
+  "caption_ig": "Open your phone outside today and look at your website. If your top headline washes out or your phone number isn't tappable, you are losing local enquiries before visitors ever read your work. Try the five-second test today.\n\n#webdesign #smallbusiness #websitetips #branddesigner #localbusiness",
+  "caption_fb": "Open your business website on a smartphone while sitting outside today. Look closely at your main headline and your primary contact button. If the text washes out in the sunlight or your phone number isn't a tappable link, visitors may be leaving your site before they ever contact you. Take thirty seconds to check how your pages actually look in real-world conditions.",
+  "caption_li": "Most small-business owners test their website on a large desktop monitor in a quiet office. That is not how your clients view it.\n\nWhen a potential client opens your site on a phone while sitting outside, lighting changes, text sizes shrink, and navigation gets clumsy.\n\nTake thirty seconds today to view your homepage on a mobile device under bright light. If your main headline is hard to read or your phone number isn't a tappable link, you are likely losing enquiries.\n\nWhat is one thing you noticed when you last checked your mobile site on a phone?",
+  "slides": [
+    {
+      "title": "Cover your logo and read your hero headline.",
+      "body": "If a stranger cannot name your exact service within five seconds, they will close the tab and call a competitor instead.",
+      "kicker": "WEBSITE CHECK"
+    },
+    {
+      "title": "Your headline relies on clever industry buzzwords.",
+      "body": "Terms like 'synergistic solutions' confuse tired readers. If they have to guess what you sell, they leave without buying.",
+      "kicker": "01"
+    },
+    {
+      "title": "Your main button competes with too many choices.",
+      "body": "When a page asks visitors to read your story, view your portfolio, and call you all at once, they take no action.",
+      "kicker": "02"
+    },
+    {
+      "title": "Pricing and location hide below the fold.",
+      "body": "If visitors have to scroll past three paragraphs of backstory just to find your service area or rates, they get frustrated.",
+      "kicker": "03"
+    },
+    {
+      "title": "Open your site on a phone outside today.",
+      "body": "If glare washes out your text or your phone number isn't a tappable link, you are losing immediate phone enquiries."
+    }
+  ]
+}
