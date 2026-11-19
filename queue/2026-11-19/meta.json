@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-19",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Conversion",
+  "topic": "Conversion",
+  "hook_style": "spot_it",
+  "label": "WEBSITE CONVERSION",
+  "caption_ig": "Most small business websites do not have a traffic problem\u2014they have a friction problem. If contacting you feels like filling out tax forms or guessing what happens next, visitors leave.\n\nFix these 5 friction points on your homepage today to convert more of the visitors you already have.\n\n#smallbusiness #websiteconversion #webdesign #leadgeneration #localbusiness #conversionrate",
+  "caption_fb": "If your website gets visitors but very few messages, the issue usually isn't your service\u2014it is friction.\n\nWhen a prospective client lands on your site from their phone, they want to know three things fast: who you help, how to reach you, and how quickly you will reply. If your form asks for too much information or your contact button just says 'Submit', most people will simply hit the back button.\n\nYou do not need an expensive website redesign to fix this. Moving a single testimonial next to your form and shortening your fields can noticeably increase your monthly enquiries.",
+  "caption_li": "Most small business owners believe they need more website traffic to generate more leads. In reality, most sites lose existing visitors to unnecessary conversion friction.\n\nWhen auditing small business homepages, we routinely find three high-dropoff points: mandatory phone fields, non-descriptive CTA buttons like 'Submit', and testimonials isolated on a separate reviews page.\n\nBy reducing your contact form to essential fields, adding clear expectations around response times, and placing social proof directly next to the call to action, you lower the barrier for prospective clients to reach out.\n\nBefore allocating budget to ads or SEO, audit your mobile user journey for these five friction points.",
+  "slides": [
+    {
+      "title": "Test your website on your phone right now",
+      "body": "Open your site on a mobile screen. If a visitor cannot tap to call or open a simple contact form within five seconds, you are losing local leads to faster competitors.",
+      "kicker": "WEBSITE CONVERSION"
+    },
+    {
+      "title": "Stop asking for phone numbers on field one",
+      "body": "Mandatory phone fields and long dropdowns stop casual browsers from reaching out. Every extra field you add to an initial contact form drops the likelihood of a submission.",
+      "kicker": "01"
+    },
+    {
+      "title": "Replace vague button text like Submit or Learn More",
+      "body": "'Submit' sounds like work and creates hesitation. Tell visitors exactly what happens next. Use specific text like 'Get a Free Estimate' or 'Book Your 15-Minute Call'.",
+      "kicker": "02"
+    },
+    {
+      "title": "Put customer proof directly beside your contact form",
+      "body": "Testimonials buried on a dedicated 'Reviews' page get ignored. Place a short 5-star quote or client logo right next to your form to reassure hesitant buyers as they type.",
+      "kicker": "03"
+    },
+    {
+      "title": "Add a clear reply timeline below your form",
+      "body": "Buyers hate sending messages into a black hole. Add a single sentence below your button: 'We respond to all enquiries within 2 business hours.' It eliminates hesitation immediately."
+    }
+  ]
+}
