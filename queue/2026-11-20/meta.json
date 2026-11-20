@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Things your website should have",
+  "topic": "Things your website should have",
+  "hook_style": "hidden_cost",
+  "label": "WEBSITE CLARITY",
+  "caption_ig": "Visitors won't email to ask basic questions like where you're based or how fast you reply. If the answer isn't on the page, they hit the back button. Add these 2 micro-details to your site today.\n\n#webdesign #smallbusiness #conversiontips #websitetips #marketingtips",
+  "caption_fb": "When someone lands on your site, they're looking for reasons to trust you\u2014but missing details give them a quick reason to leave. Two of the biggest silent lead-killers are vague service locations ('serving the local area') and mystery contact forms with no stated reply time. When people aren't sure if you work in their town or when you'll get back to them, they usually close the tab and try a competitor. Take five minutes today to add your exact service area and a clear response window near your contact button.",
+  "caption_li": "Small business owners often skip essential homepage details simply because the answers seem obvious to them. You already know your service radius and how quickly you check your inbox, so it is easy to forget to state them explicitly.\n\nHowever, prospective clients lack that context. When forced to guess whether you service their county or when they will hear back, friction wins and they return to search results.\n\nFixing this does not require a costly website overhaul. It just requires adding precise service boundaries and clear response expectations right next to your call to action.",
+  "slides": [
+    {
+      "title": "2 tiny homepage omissions that cost you leads",
+      "body": "Most visitors won't email to ask if you service their town or when you'll reply to a form. If they have to guess, they click back to Google and call your competitor.",
+      "kicker": "WEBSITE CLARITY"
+    },
+    {
+      "title": "Replace vague service areas with specific county names",
+      "body": "Bad: 'Serving the tri-state area.'\nGood: 'Based in Austin, serving Travis and Williamson counties.'\n\nIf prospective clients aren't 100% sure you cover their zip code, they won't fill out your form."
+    },
+    {
+      "title": "Give your contact form a clear response deadline",
+      "body": "Bad: 'Fill out this form to get started.'\nGood: 'Submit your request. We reply within 4 business hours.'\n\nWithout a clear timeline, visitors assume your inbox is a black hole and delay reaching out."
+    },
+    {
+      "title": "Audit your homepage for these missing details today",
+      "body": "Look at your site as a first-time visitor. Is your physical city in your main headline? Is your reply timeframe next to your button? Fix these two lines to save lost leads."
+    }
+  ]
+}
