@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Client education",
+  "topic": "Client education",
+  "hook_style": "myth_bust",
+  "label": "DESIGN FEEDBACK",
+  "caption_ig": "Stop wasting budget on five rounds of website revisions. When you review your next draft, don't play designer\u2014play customer. Describe where a buyer gets confused or distracted, and let your designer build the fix.\n\n#webdesign #smallbusinessowner #websitetips #cro #conversionrateoptimization #designfeedback",
+  "caption_fb": "One of the quickest ways a website project goes over budget is vague feedback. Telling a designer to make something 'pop' or look 'more modern' forces them to guess what you mean, leading to endless rounds of edits.\n\nNext time you review site mockups, focus on user friction. Instead of saying you dislike a layout, point out where a customer might miss your main offer or get confused about what to click next. Giving clear, problem-based feedback keeps your launch on schedule.",
+  "caption_li": "Subjective feedback is the primary cause of delayed website launches.\n\nWhen business owners ask designers for 'cleaner' or 'more dynamic' pages, it creates misalignment because aesthetic terms are entirely subjective.\n\nA far more effective framework is pointing out user friction:\n\n\u2022 Instead of 'This section is too empty' \u2192 'Buyers might miss our main offer.'\n\u2022 Instead of 'I don't like this layout' \u2192 'A visitor won't know where to click next.'\n\nWhen you define the business problem, your designer can create a structural solution without guessing.\n\nHow does your team structure design reviews to keep projects moving?",
+  "slides": [
+    {
+      "title": "Saying 'make it pop' costs you money",
+      "body": "Vague terms like 'clean', 'pop', or 'modern' force your designer to guess. Every wrong guess adds another revision cycle, pushing back your launch date and burning your budget on endless redesigns.",
+      "kicker": "DESIGN FEEDBACK"
+    },
+    {
+      "title": "Swap visual preference for conversion risk",
+      "body": "Don't say: 'This section feels too empty.'\nSay: 'First-time visitors will miss our primary offer here.'\nHighlighting revenue risk forces your designer to solve a business problem, not just rearrange white space."
+    },
+    {
+      "title": "Flag user confusion instead of personal taste",
+      "body": "Don't say: 'I don't like this layout.'\nSay: 'Mobile readers won't know which button to tap next.'\nWhen you describe where a buyer gets stuck, your designer can fix the user flow immediately."
+    },
+    {
+      "title": "Describe the friction, don't prescribe the fix",
+      "body": "Asking to 'make the button bigger' usually masks the real issue: your headline isn't clear. State the user's goal, point out where they stop, and let the designer handle the layout."
+    }
+  ]
+}
