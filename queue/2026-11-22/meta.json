@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-22",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Things businesses get wrong",
+  "topic": "Things businesses get wrong",
+  "hook_style": "spot_it",
+  "label": "WEBSITE SELF-AUDIT",
+  "caption_ig": "When you look at your website daily, everything makes sense. But a first-time visitor doesn't have your context. If your homepage makes them work to understand your offer, pricing, or next steps, they're gone.\n\n#websitedesign #smallbusiness #conversionrate #webdesign #businesstips",
+  "caption_fb": "Most business owners view their website through the lens of someone who already understands the company. That creates expensive blind spots. A first-time visitor needs to know what you do, who it's for, and roughly what it costs within seconds. If those answers are buried behind jargon, people will return to search results. Review your homepage today.",
+  "caption_li": "One of the most common conversion leaks on small business websites is assuming the reader already knows your industry terms.\n\nWhen you spend years refining your offer, your services feel self-explanatory. But a new visitor landing on your homepage gives you about five seconds of attention.\n\nIf your headline uses vague language instead of stating your exact value, or hides basic pricing expectations, potential clients move on.\n\nWhen was the last time a cold contact audited your homepage?",
+  "slides": [
+    {
+      "title": "Ask a stranger what your business sells.",
+      "body": "If they cannot answer in five seconds, your homepage headline is too vague. Visitors leave when they have to guess what you do.",
+      "kicker": "WEBSITE SELF-AUDIT"
+    },
+    {
+      "title": "Jargon like 'quality solutions' kills conversions.",
+      "body": "Buyers do not want to figure out your internal terminology. If finding out what you sell takes effort, they will hire a competitor.",
+      "kicker": "01"
+    },
+    {
+      "title": "Demanding a discovery call too soon creates friction.",
+      "body": "Pushing 'Book a Call' before showing your process scares off early-stage buyers who just want to understand your pricing and steps.",
+      "kicker": "02"
+    },
+    {
+      "title": "Hiding your pricing framework signals high costs.",
+      "body": "Leaving out starting rates or cost factors makes visitors assume you are out of their budget. They will close the tab without inquiring.",
+      "kicker": "03"
+    },
+    {
+      "title": "State your exact target market at the top.",
+      "body": "Replace clever taglines with plain language. Tell visitors who you help and the exact outcome you deliver in the first fold."
+    }
+  ]
+}
