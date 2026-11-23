@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-23",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Colour psychology",
+  "topic": "Colour psychology",
+  "hook_style": "bold_claim",
+  "label": "WEBSITE COLOUR STRATEGY",
+  "caption_ig": "Is your main button hiding in plain sight? \ud83c\udfa8\n\nWhen your primary call-to-action shares a colour with your background, header, or icons, visitors skim right past it. \n\nThe fix: Pick one distinct accent colour and use it ONLY for your primary button. Make taking action impossible to miss.\n\nSave this post to check your homepage contrast later.\n\n#webdesign #conversionrate #smallbusinesswebsite #uxdesign #cro",
+  "caption_fb": "Most small business owners choose website colours based on visual aesthetics alone, but button contrast has a massive impact on your lead volume.\n\nIf your main action button matches your logo or header background, it loses visual priority. On a small mobile screen, skimmers will scroll right past it without realizing where to click.\n\nTake a look at your homepage today: Is your 'Book Now' or 'Contact Us' button using a unique colour that appears nowhere else on the page? If not, changing just that single element can make taking action effortless for prospective clients.",
+  "caption_li": "Visual contrast drives website conversions far more than colour psychology.\n\nMany business websites suffer from a common issue: the primary call-to-action button blends directly into the brand palette. When your button shares the same shade as your header, subheadings, and card backgrounds, it loses all visual weight.\n\nTo fix this:\n1. Choose one high-contrast accent colour.\n2. Use that colour exclusively for your primary action buttons across the site.\n3. Ensure body text has strong contrast against the background for mobile readability.\n\nIf your button does not stand out instantly to someone skimming your page in three seconds, your layout is creating friction for potential buyers.",
+  "slides": [
+    {
+      "title": "Your brand colours might be killing your click-throughs.",
+      "body": "If your main call-to-action button uses the same primary colour as your header and background, it blends right in. Visitors scroll past the exact thing you want them to click.",
+      "kicker": "WEBSITE COLOUR STRATEGY"
+    },
+    {
+      "title": "The matching colour trap costs you enquiries.",
+      "body": "When your 'Book Now' button is the exact shade as your logo, subheadings, and icons, it stops looking clickable. It becomes background noise on mobile screens.",
+      "kicker": "01"
+    },
+    {
+      "title": "Three or more accent colours create visual chaos.",
+      "body": "If subheadings, badges, icons, and links all use different bright colours, visitors do not know where to focus. When every element screams for attention, potential clients tap away.",
+      "kicker": "02"
+    },
+    {
+      "title": "Trendy low-contrast text makes visitors give up.",
+      "body": "Light grey body text looks sleek in design mockups, but on a phone screen in daylight, it is hard to read. If reading your service details takes physical effort, prospective clients leave.",
+      "kicker": "03"
+    },
+    {
+      "title": "Reserve one bright colour exclusively for action buttons.",
+      "body": "Pick an accent colour\u2014like vibrant orange or bold teal\u2014that appears nowhere else on your site. Use it strictly for your main action button to instantly direct visitor focus."
+    }
+  ]
+}
