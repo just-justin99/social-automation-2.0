@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-16",
-  "n_posts": 17,
+  "updated": "2026-11-23",
+  "n_posts": 18,
   "platforms": {
-    "Instagram": 17,
-    "Facebook": 17,
+    "Instagram": 18,
+    "Facebook": 18,
     "LinkedIn": 0
   },
   "facebook_has_reach": false,
@@ -14,8 +14,8 @@
       "avg_score": 0.436
     },
     "authority": {
-      "posts": 4,
-      "avg_score": 0.518
+      "posts": 5,
+      "avg_score": 0.414
     },
     "selling": {
       "posts": 2,
@@ -66,6 +66,10 @@
     "Digital marketing": {
       "posts": 1,
       "avg_score": 0.0
+    },
+    "Colour psychology": {
+      "posts": 1,
+      "avg_score": 0.0
     }
   },
   "by_format": {
@@ -86,7 +90,7 @@
       "avg_score": 0.518
     },
     "process": {
-      "posts": 1,
+      "posts": 2,
       "avg_score": 0.0
     }
   },
@@ -108,8 +112,8 @@
       "avg_score": 0.518
     },
     "spot_it": {
-      "posts": 3,
-      "avg_score": 1.6
+      "posts": 4,
+      "avg_score": 1.2
     },
     "hidden_cost": {
       "posts": 2,
@@ -119,9 +123,7 @@
   "repeat": {
     "subject": [],
     "format": [],
-    "hook_style": [
-      "spot_it"
-    ]
+    "hook_style": []
   },
   "retire": {
     "subject": [],
@@ -150,15 +152,15 @@
   ],
   "weak_hooks": [
     {
+      "title": "Count the colours visible before you scroll down.",
+      "attention": 0
+    },
+    {
       "title": "Is your contact page hiding behind a single form?",
       "attention": 0
     },
     {
       "title": "Stop sending paid ad traffic to your homepage.",
-      "attention": 0
-    },
-    {
-      "title": "Skimmers skip your paragraphs and miss your best offer.",
       "attention": 0
     }
   ],
