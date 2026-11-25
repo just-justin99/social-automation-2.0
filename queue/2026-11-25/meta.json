@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-25",
+  "type": "selling",
+  "format": "audit_offer",
+  "subject": "Website mistakes",
+  "topic": "Website mistakes",
+  "hook_style": "hidden_cost",
+  "label": "WEBSITE AUDIT",
+  "caption_ig": "Most websites don't lose leads because of bad design\u2014they lose leads because contacting the business is too annoying on a mobile phone.\n\nFixing a few simple friction points (like unclickable phone numbers or hidden service areas) can recover lost enquiries immediately.\n\nWant me to check yours? DM me AUDIT for a quick 3-minute video review of your site.\n\n#webdesign #smallbusiness #conversionrate #cro #localbusiness",
+  "caption_fb": "Small business owners often think a quiet website means they need an expensive redesign. In reality, most lost leads come from tiny technical friction points\u2014like plain-text phone numbers that mobile users can't tap to call, or service areas hidden at the bottom of the page.\n\nIf you want a second pair of eyes on your site, send me a message with the word AUDIT. I'll record a short video highlighting 2 or 3 specific fixes you can make this week.",
+  "caption_li": "A complete website redesign is rarely necessary to improve lead generation for local businesses.\n\nIn practice, prospective clients drop off not due to weak aesthetics, but because basic actions require unnecessary effort. If a mobile user has to manually copy a phone number, or scroll through multiple pages to confirm your service area, they will choose a competitor.\n\nAddressing these specific friction points usually delivers a higher ROI than rebuilding from scratch.\n\nIf you would like a review of your current site, send a message with the word AUDIT and I will send over a concise video analysis of quick improvements.",
+  "slides": [
+    {
+      "title": "3 small website errors driving away paying leads",
+      "body": "Most lost leads aren't caused by ugly design. They happen when tiny technical hurdles make contacting you annoying on a phone. Check if your site suffers from these issues.",
+      "kicker": "WEBSITE AUDIT"
+    },
+    {
+      "title": "Plain-text phone numbers lose mobile callers instantly",
+      "body": "If a mobile visitor has to copy and paste your phone number, they abandon the call. Wrap your number in a clickable link so visitors can call in a single tap."
+    },
+    {
+      "title": "Hiding your service area kills local buyer trust",
+      "body": "If visitors cannot spot your town or region in your main header, they assume you do not serve them. Put your location front and center before people scroll away."
+    },
+    {
+      "title": "Get a 3-minute video audit of your site",
+      "body": "DM me the word AUDIT. I will record a quick video showing 2 or 3 exact friction points costing you enquiries\u2014and how to fix them. Zero sales pitch."
+    }
+  ]
+}
