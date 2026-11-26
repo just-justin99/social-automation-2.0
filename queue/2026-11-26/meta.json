@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "type": "education",
+  "format": "before_after",
+  "subject": "Business positioning",
+  "topic": "Business positioning",
+  "hook_style": "myth_bust",
+  "label": "POSITIONING STRATEGY",
+  "caption_ig": "If clients constantly ask for discounts, your website likely describes your services instead of the exact headache you fix. Naming the specific problem ends price battles.\n#businesspositioning #smallbusiness #conversionrate #webdesigntips #clientacquisition",
+  "caption_fb": "When leads slow down, the instinct is often to rewrite the homepage to appeal to a wider audience. But in practice, making your service sound useful to everyone usually means it feels vital to no one.\n\nIf your website reads like your competitors, prospects have no reason to choose you besides a lower hourly rate. Narrowing your focus to a specific operational problem stops the race to the bottom.",
+  "caption_li": "Most pricing pushback is actually a positioning failure.\n\nWhen reviewing service websites, the most common flaw is safe, broad language intended to avoid turning anyone away. But safe copy turns your expertise into an interchangeable commodity.\n\nIf a visitor cannot spot their exact situation within ten seconds, they will default to comparing your fees.\n\nDoes your site speak to everyone, or one specific buyer?",
+  "slides": [
+    {
+      "title": "Why broad website copy kills your quote requests.",
+      "body": "When your homepage tries to appeal to every type of buyer, nobody feels understood. Visitors leave because they cannot tell if you actually handle businesses of their exact size and sector.",
+      "kicker": "POSITIONING STRATEGY"
+    },
+    {
+      "title": "Stop listing services. Name the exact problem solved.",
+      "body": "Before: Full-service accounting for growing businesses.\nAfter: Year-end tax planning and cash-flow fixes for independent restaurants.\nWhy: Naming the exact sector stops buyers from treating you like a commodity."
+    },
+    {
+      "title": "Replace empty quality claims with operational facts.",
+      "body": "Before: We deliver tailored, high-quality work.\nAfter: Direct access to your lead designer, with zero account managers.\nWhy: Concrete trade-offs justify your pricing better than defensive adjectives ever will."
+    },
+    {
+      "title": "Stop price shoppers by fixing your homepage focus.",
+      "body": "Buyers negotiate aggressively when options look identical. When your positioning mirrors their exact current headache, total cost drops down the priority list compared to getting it right."
+    }
+  ]
+}
