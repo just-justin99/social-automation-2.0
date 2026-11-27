@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-27",
+  "type": "education",
+  "format": "deep_dive",
+  "subject": "UI/UX",
+  "topic": "UI/UX",
+  "hook_style": "spot_it",
+  "label": "MOBILE NAVIGATION CHECK",
+  "caption_ig": "Check how your menu feels on a real phone today. If links are cramped, you are losing mobile enquiries without realizing it. #SmallBusiness #WebDesign #UserExperience #MobileFriendly #ConversionRate",
+  "caption_fb": "Take out your phone right now and try to navigate your own website with one thumb. If the menu links are tiny or crammed together, visitors get frustrated and leave before seeing your services. Fixing your tap targets keeps potential customers on your site longer.",
+  "caption_li": "Many business owners review their website strictly on a desktop monitor, forgetting that prospective clients are trying to navigate on a phone with one hand.\n\nWhen navigation menus are scaled-down desktop layouts, buttons become too small. This physical friction causes visitors to abandon the site entirely.\n\nCheck your mobile menu today. Are your links easy to tap, or do users have to pinch and zoom?",
+  "slides": [
+    {
+      "title": "Open your site on your phone right now.",
+      "body": "Try tapping your main menu using only your thumb while holding the phone normally.",
+      "kicker": "MOBILE NAVIGATION CHECK"
+    },
+    {
+      "title": "Desktop menus fail on mobile screens.",
+      "body": "Shrinking a desktop layout creates tiny tap targets and hidden links that frustrate mobile visitors."
+    },
+    {
+      "title": "Bad spacing sends customers to competitors.",
+      "body": "When links are too close together, visitors tap the wrong page and close the tab out of frustration."
+    },
+    {
+      "title": "Make every button thumb-friendly.",
+      "body": "Give your menu items clear separation so users can navigate without pinching or zooming."
+    },
+    {
+      "title": "Stop losing mobile enquiries today.",
+      "body": "When your site is effortless to use on a phone, people actually complete your contact form."
+    }
+  ]
+}
