@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-28",
+  "type": "education",
+  "format": "spot_the_problem",
+  "subject": "Branding",
+  "topic": "Branding",
+  "hook_style": "bold_claim",
+  "label": "BRAND PERCEPTION",
+  "caption_ig": "Your website's visual chaos is quietly turning away buyers before they read your pricing. Lock in a simple system today.\n\n#branding #webdesign #smallbusiness #conversionrate #brandidentity",
+  "caption_fb": "Many small business owners spend weeks perfecting a logo while ignoring how their website actually feels to a visitor. When your typography and colors clash from page to page, customers subconsciously question your attention to detail. Simplifying your visual choices instantly makes your business look more established and trustworthy.",
+  "caption_li": "When business owners talk about branding, they usually focus on the logo. But customers experience your brand as a series of immediate trust signals.\n\nIf your typography is chaotic, your imagery is generic, and your colors change across pages, visitors may question your professionalism before reading a single word of your copy.\n\nA strong visual system is not about looking trendy. It is about removing friction so people can focus on the value of your work.\n\nHow do you ensure your website visuals match the actual quality of your service?",
+  "slides": [
+    {
+      "title": "A logo doesn't fix a broken first impression.",
+      "body": "Customers judge your reliability within three seconds of landing on your site. If your visual style looks patched together, visitors assume your service delivery is just as disorganized.",
+      "kicker": "BRAND PERCEPTION"
+    },
+    {
+      "title": "Three headline fonts make you look amateur.",
+      "body": "Using multiple decorative typefaces forces the brain to work harder to read. Clean, single-family typography signals operational maturity and makes your offers immediately easier to digest.",
+      "kicker": "01"
+    },
+    {
+      "title": "Five accent colors create cognitive fatigue.",
+      "body": "When every section uses a different highlight color, visitors don't know where to look first. Restricting yourself to one primary accent keeps attention firmly on your checkout button.",
+      "kicker": "02"
+    },
+    {
+      "title": "Generic handshake photos destroy buyer trust.",
+      "body": "Obvious stock imagery tells visitors nothing real about how you operate. When people spot fake team photos, they immediately wonder what else on your site is fabricated.",
+      "kicker": "03"
+    },
+    {
+      "title": "Fix your visual chaos in ten minutes.",
+      "body": "Lock in two fonts and one accent color across every page today. This basic constraint stops visitors from questioning your competence before they even read your pricing."
+    }
+  ]
+}
